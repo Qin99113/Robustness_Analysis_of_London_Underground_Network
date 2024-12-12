@@ -1,0 +1,3060 @@
+Source Station,Target Station,Weight
+Charing Cross,Embankment,824
+Edgware Road (Bakerloo),Paddington,1185
+Maida Vale,Warwick Avenue,175
+Holborn,Tottenham Court Road,2078
+Goldhawk Road,Shepherds Bush Market,358
+Notting Hill Gate,Queensway,678
+Fulham Broadway,Parsons Green,505
+Archway,Tufnell Park,337
+Pimlico,Vauxhall,695
+Preston Road,Wembley Park,366
+Gants Hill,Newbury Park,250
+Hatton Cross,Heathrow Terminals 1 2 3,659
+Fulham Broadway,West Brompton,394
+Harlesden,Stonebridge Park,155
+Aldgate East,Tower Hill,870
+Aldgate East,Whitechapel,603
+Chancery Lane,St. Pauls,273
+Harlesden,Willesden Junction,336
+Euston Square,Great Portland Street,166
+Aldgate,Liverpool Street,972
+Harrow-on-the-Hill,West Harrow,236
+Chigwell,Roding Valley,11
+Canary Wharf,North Greenwich,2793
+Blackhorse Road,Tottenham Hale,1373
+South Harrow,Sudbury Hill,84
+Kennington,Waterloo,1716
+Ruislip,Ruislip Manor,160
+Aldgate,Tower Hill,481
+Bromley-by-Bow,West Ham,199
+Balham,Tooting Bec,780
+Elephant and Castle,Kennington,611
+Battersea Power Station,Nine Elms,1144
+Acton Town,Turnham Green,457
+Plaistow,Upton Park,307
+Earls Court,Kensington (Olympia),405
+Euston,Kings Cross St. Pancras,1744
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,429
+Oxford Circus,Regents Park,713
+Camden Town,Kentish Town,1020
+Burnt Oak,Edgware,452
+Redbridge,Wanstead,114
+Barkingside,Fairlop,82
+Manor House,Turnpike Lane,442
+Hyde Park Corner,Knightsbridge,673
+Baker Street,Marylebone,600
+Stockwell,Vauxhall,1331
+Belsize Park,Chalk Farm,445
+Barons Court,Earls Court,802
+Hatton Cross,Heathrow Terminal 4,233
+Waterloo,Westminster,1949
+Ickenham,Ruislip,134
+Tooting Bec,Tooting Broadway,960
+Holland Park,Shepherds Bush,865
+Goodge Street,Warren Street,204
+Mile End,Stratford,2716
+Moorgate,Old Street,675
+Northwood,Northwood Hills,85
+Bermondsey,Canada Water,683
+Edgware Road (Bakerloo),Marylebone,180
+Angel,Old Street,514
+Green Park,Westminster,1198
+Brent Cross,Golders Green,378
+Monument,Cannon Street,300
+Leytonstone,Wanstead,249
+Goodge Street,Tottenham Court Road,963
+Kentish Town,Tufnell Park,347
+Colindale,Hendon Central,562
+Green Park,Oxford Circus,2589
+Seven Sisters,Tottenham Hale,820
+Rayners Lane,South Harrow,115
+Baker Street,St. Johns Wood,606
+Monument,St. Pauls,585
+Oxford Circus,Warren Street,1210
+Greenford,Northolt,289
+Cannon Street,Mansion House,160
+Bethnal Green,Mile End,515
+Alperton,Sudbury Town,144
+Latimer Road,Wood Lane,484
+Charing Cross,Piccadilly Circus,1239
+Finchley Road,West Hampstead,387
+Becontree,Dagenham Heathway,198
+Moor Park,Rickmansworth,108
+Bond Street,Marble Arch,866
+East Acton,White City,412
+Finchley Central,Mill Hill East,287
+Kenton,South Kenton,174
+Hatton Cross,Hounslow West,237
+Barking,East Ham,783
+Ealing Broadway,West Acton,426
+Charing Cross,Leicester Square,1793
+Farringdon,Kings Cross St. Pancras,1314
+East Finchley,Highgate,364
+Dagenham East,Elm Park,134
+Baker Street,Bond Street,1373
+Oxford Circus,Tottenham Court Road,3117
+Chalfont and Latimer,Chesham,132
+Arnos Grove,Southgate,355
+Aldgate East,Liverpool Street,1619
+Pimlico,Victoria,1071
+Gunnersbury,Kew Gardens,791
+Moor Park,Northwood,142
+Covent Garden,Leicester Square,1288
+Clapham Common,Clapham South,546
+Neasden,Wembley Park,485
+Camden Town,Mornington Crescent,1002
+Hounslow Central,Hounslow West,179
+Canons Park,Queensbury,252
+Snaresbrook,South Woodford,151
+Earls Court,Gloucester Road,1104
+Brixton,Stockwell,1522
+Highbury and Islington,Kings Cross St. Pancras,1292
+St. Jamess Park,Victoria,917
+Ladbroke Grove,Latimer Road,601
+Caledonian Road,Kings Cross St. Pancras,1090
+Northolt,South Ruislip,259
+Canada Water,Canary Wharf,1877
+Borough,Elephant and Castle,342
+Northfields,South Ealing,161
+Camden Town,Euston,1887
+Paddington,Royal Oak,1183
+Archway,Highgate,493
+Oxford Circus,Piccadilly Circus,2347
+Rayners Lane,West Harrow,97
+Gunnersbury,Turnham Green,402
+Fairlop,Hainault,134
+Finchley Road,Wembley Park,693
+Ruislip Gardens,West Ruislip,162
+Acton Town,Chiswick Park,246
+Sudbury Hill,Sudbury Town,79
+Gloucester Road,South Kensington,1428
+North Wembley,South Kenton,105
+Roding Valley,Woodford,135
+Barbican,Farringdon,275
+Plaistow,West Ham,229
+Chancery Lane,Holborn,398
+Stonebridge Park,Wembley Central,338
+Leicester Square,Tottenham Court Road,2891
+Borough,London Bridge,1365
+Kennington,Nine Elms,327
+Croxley,Moor Park,70
+Clapham Common,Clapham North,433
+Canons Park,Stanmore,326
+Kilburn,West Hampstead,432
+Royal Oak,Westbourne Park,180
+Liverpool Street,Moorgate,1692
+Stamford Brook,Turnham Green,297
+Knightsbridge,South Kensington,1693
+Earls Court,West Brompton,681
+Baker Street,Regents Park,287
+Barons Court,West Kensington,296
+Buckhurst Hill,Loughton,222
+Gloucester Road,High Street Kensington,642
+Stratford,West Ham,2835
+Baker Street,Great Portland Street,426
+Grange Hill,Hainault,94
+Becontree,Upney,126
+Harrow-on-the-Hill,North Harrow,310
+Southwark,Waterloo,905
+Hillingdon,Uxbridge,503
+North Harrow,Pinner,103
+Colliers Wood,Tooting Broadway,1067
+Dagenham East,Dagenham Heathway,239
+Green Park,Victoria,2001
+Bond Street,Oxford Circus,2333
+Barkingside,Newbury Park,162
+Elm Park,Hornchurch,137
+Green Park,Piccadilly Circus,1467
+Hillingdon,Ickenham,140
+St. Jamess Park,Westminster,552
+Embankment,Westminster,1093
+Blackhorse Road,Walthamstow Central,1432
+Lambeth North,Waterloo,962
+Finchley Road,Swiss Cottage,294
+Kensal Green,Willesden Junction,334
+Burnt Oak,Colindale,513
+Oakwood,Southgate,423
+Bow Road,Bromley-by-Bow,162
+Ladbroke Grove,Westbourne Park,547
+Hanger Lane,North Acton,250
+Kingsbury,Queensbury,166
+Harrow and Wealdstone,Kenton,280
+Leytonstone,Snaresbrook,204
+Oval,Stockwell,380
+Arsenal,Finsbury Park,776
+Ealing Common,North Ealing,67
+Boston Manor,Northfields,160
+Stepney Green,Whitechapel,398
+Canning Town,West Ham,675
+North Wembley,Wembley Central,290
+Bow Road,Mile End,380
+Balham,Clapham South,761
+Earls Court,High Street Kensington,1204
+Shepherds Bush Market,Wood Lane,752
+Harrow-on-the-Hill,Northwick Park,276
+Kilburn,Willesden Green,389
+Brent Cross,Hendon Central,317
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,456
+Covent Garden,Holborn,896
+Canning Town,North Greenwich,1688
+Sloane Square,Victoria,1310
+Epping,Theydon Bois,339
+Amersham,Chalfont and Latimer,251
+High Barnet,Totteridge and Whetstone,369
+Kilburn Park,Queens Park,318
+Leicester Square,Piccadilly Circus,2392
+Euston Square,Kings Cross St. Pancras,1063
+Hounslow East,Osterley,188
+Earls Court,West Kensington,727
+Camden Town,Chalk Farm,944
+Acton Town,Ealing Common,197
+Holland Park,Notting Hill Gate,550
+North Ealing,Park Royal,85
+Green Park,Hyde Park Corner,518
+Belsize Park,Hampstead,390
+Finchley Central,West Finchley,317
+East Putney,Southfields,600
+East Acton,North Acton,243
+Buckhurst Hill,Woodford,206
+Angel,Kings Cross St. Pancras,1508
+Monument,Tower Hill,1180
+Bethnal Green,Liverpool Street,1046
+North Acton,West Acton,164
+Caledonian Road,Holloway Road,220
+Blackfriars,Mansion House,463
+Arnos Grove,Bounds Green,358
+Kew Gardens,Richmond,1785
+East Finchley,Finchley Central,495
+Kennington,Oval,232
+Croxley,Watford,109
+Debden,Loughton,268
+Barking,Upney,600
+Chorleywood,Rickmansworth,129
+Greenford,Perivale,202
+Ealing Broadway,Ealing Common,528
+Barbican,Moorgate,368
+East Ham,Upton Park,571
+Golders Green,Hampstead,501
+Sloane Square,South Kensington,1364
+Acton Town,South Ealing,190
+Embankment,Temple,467
+Dollis Hill,Willesden Green,319
+East Putney,Putney Bridge,753
+Northwick Park,Preston Road,89
+Shepherds Bush,White City,1135
+Alperton,Park Royal,168
+Mile End,Stepney Green,326
+Finsbury Park,Seven Sisters,1182
+Euston,Warren Street,556
+Chalfont and Latimer,Chorleywood,194
+Totteridge and Whetstone,Woodside Park,328
+Kilburn Park,Maida Vale,187
+Bayswater,Paddington,953
+Parsons Green,Putney Bridge,671
+Monument,Liverpool Street,2308
+South Woodford,Woodford,238
+Northwood Hills,Pinner,125
+Monument,London Bridge,2695
+Debden,Theydon Bois,158
+Clapham North,Stockwell,484
+Monument,Moorgate,903
+Monument,Waterloo,1921
+Bounds Green,Wood Green,602
+Hanger Lane,Perivale,192
+Hounslow Central,Hounslow East,202
+Kensal Green,Queens Park,300
+Elephant and Castle,Lambeth North,364
+Lancaster Gate,Queensway,406
+Finsbury Park,Highbury and Islington,975
+Holborn,Russell Square,436
+Baker Street,Finchley Road,717
+Cockfosters,Oakwood,295
+West Finchley,Woodside Park,187
+Wimbledon,Wimbledon Park,2205
+Chiswick Park,Turnham Green,264
+Blackfriars,Temple,362
+High Street Kensington,Notting Hill Gate,776
+Ruislip Gardens,South Ruislip,164
+Southfields,Wimbledon Park,551
+Bermondsey,London Bridge,1719
+Embankment,Waterloo,1900
+Upminster,Upminster Bridge,345
+Hornchurch,Upminster Bridge,89
+Chigwell,Grange Hill,17
+Bayswater,Notting Hill Gate,388
+Morden,South Wimbledon,954
+Paddington,Warwick Avenue,1313
+Dollis Hill,Neasden,127
+Boston Manor,Osterley,117
+Turnpike Lane,Wood Green,643
+Euston,Mornington Crescent,641
+St. Johns Wood,Swiss Cottage,193
+Lancaster Gate,Marble Arch,527
+Colliers Wood,South Wimbledon,686
+Leyton,Stratford,1698
+Eastcote,Rayners Lane,124
+Bond Street,Green Park,1600
+Arsenal,Holloway Road,168
+Ravenscourt Park,Stamford Brook,198
+Finsbury Park,Manor House,925
+Kingsbury,Wembley Park,476
+Leyton,Leytonstone,560
+Eastcote,Ruislip Manor,112
+Kings Cross St. Pancras,Russell Square,930
+Gants Hill,Redbridge,247
+London Bridge,Southwark,1340
+Source Station,Target Station,Weight
+Moor Park,Rickmansworth,122
+Sudbury Hill,Sudbury Town,100
+Northolt,South Ruislip,260
+Baker Street,Great Portland Street,420
+Ladbroke Grove,Westbourne Park,528
+Acton Town,South Ealing,231
+Leicester Square,Piccadilly Circus,2290
+Northwood,Northwood Hills,100
+Stonebridge Park,Wembley Central,337
+North Wembley,South Kenton,99
+Bayswater,Paddington,988
+Mile End,Stepney Green,308
+Dagenham East,Elm Park,135
+Pimlico,Victoria,1052
+Mile End,Stratford,2795
+Baker Street,St. Johns Wood,582
+Ladbroke Grove,Latimer Road,524
+Leicester Square,Tottenham Court Road,2788
+Kew Gardens,Richmond,1727
+Barbican,Farringdon,262
+Monument,Cannon Street,341
+Bromley-by-Bow,West Ham,264
+Chigwell,Roding Valley,11
+Southfields,Wimbledon Park,516
+Goodge Street,Warren Street,190
+Aldgate East,Liverpool Street,1632
+Angel,Kings Cross St. Pancras,1503
+Pimlico,Vauxhall,665
+Finchley Road,West Hampstead,407
+Wimbledon,Wimbledon Park,2162
+Southwark,Waterloo,980
+Ealing Broadway,Ealing Common,536
+Blackhorse Road,Walthamstow Central,1377
+Chalfont and Latimer,Chesham,128
+Holborn,Russell Square,466
+East Acton,White City,381
+Bow Road,Mile End,355
+Canada Water,Canary Wharf,1819
+Plaistow,West Ham,223
+Holborn,Tottenham Court Road,2060
+Chiswick Park,Turnham Green,230
+Baker Street,Marylebone,548
+Finchley Road,Swiss Cottage,291
+Ealing Common,North Ealing,54
+Monument,Tower Hill,1171
+Debden,Theydon Bois,163
+Barkingside,Fairlop,82
+Latimer Road,Wood Lane,465
+Totteridge and Whetstone,Woodside Park,333
+Green Park,Westminster,1107
+Cockfosters,Oakwood,254
+North Ealing,Park Royal,82
+South Harrow,Sudbury Hill,99
+Goldhawk Road,Shepherds Bush Market,311
+Croxley,Moor Park,81
+Grange Hill,Hainault,76
+Bermondsey,Canada Water,675
+Aldgate East,Whitechapel,660
+High Street Kensington,Notting Hill Gate,761
+Kilburn,West Hampstead,428
+Kings Cross St. Pancras,Russell Square,986
+Eastcote,Rayners Lane,135
+Preston Road,Wembley Park,376
+Clapham Common,Clapham South,581
+Battersea Power Station,Nine Elms,1194
+Gants Hill,Newbury Park,242
+Aldgate East,Tower Hill,839
+Archway,Tufnell Park,362
+Harlesden,Willesden Junction,343
+Boston Manor,Northfields,137
+Leyton,Stratford,1668
+Barkingside,Newbury Park,179
+Kingsbury,Wembley Park,415
+Manor House,Turnpike Lane,445
+Earls Court,Gloucester Road,1115
+Snaresbrook,South Woodford,171
+Finchley Central,Mill Hill East,328
+Fairlop,Hainault,98
+Finchley Central,West Finchley,369
+Sloane Square,Victoria,1311
+Brixton,Stockwell,1598
+Green Park,Victoria,2105
+Oxford Circus,Warren Street,1184
+Paddington,Royal Oak,1256
+Finsbury Park,Seven Sisters,1211
+St. Jamess Park,Victoria,880
+North Wembley,Wembley Central,290
+Farringdon,Kings Cross St. Pancras,1409
+Northwick Park,Preston Road,109
+Gunnersbury,Turnham Green,412
+Kilburn Park,Queens Park,324
+Canning Town,North Greenwich,1655
+Leyton,Leytonstone,544
+Rayners Lane,South Harrow,160
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,471
+Kennington,Nine Elms,312
+Gants Hill,Redbridge,238
+Greenford,Perivale,160
+Gloucester Road,South Kensington,1248
+Chigwell,Grange Hill,13
+Monument,Moorgate,975
+Charing Cross,Embankment,829
+Monument,Liverpool Street,2325
+Buckhurst Hill,Loughton,216
+Northfields,South Ealing,150
+West Finchley,Woodside Park,193
+Harrow-on-the-Hill,Northwick Park,313
+Greenford,Northolt,292
+Stockwell,Vauxhall,1342
+Hillingdon,Ickenham,109
+Kenton,South Kenton,118
+Bayswater,Notting Hill Gate,396
+Balham,Tooting Bec,837
+Oxford Circus,Regents Park,744
+Monument,London Bridge,2704
+Balham,Clapham South,733
+Dollis Hill,Neasden,148
+Elm Park,Hornchurch,152
+Colliers Wood,Tooting Broadway,1094
+Ruislip,Ruislip Manor,160
+Alperton,Park Royal,159
+Earls Court,Kensington (Olympia),448
+Highbury and Islington,Kings Cross St. Pancras,1383
+Gunnersbury,Kew Gardens,650
+Camden Town,Euston,1881
+Acton Town,Turnham Green,471
+Harrow and Wealdstone,Kenton,277
+Knightsbridge,South Kensington,1776
+Acton Town,Ealing Common,193
+Camden Town,Mornington Crescent,1003
+Kilburn Park,Maida Vale,215
+Bond Street,Green Park,1596
+Barking,Upney,598
+Elephant and Castle,Lambeth North,335
+Belsize Park,Hampstead,367
+Bond Street,Marble Arch,875
+Hatton Cross,Heathrow Terminal 4,227
+Lambeth North,Waterloo,962
+Seven Sisters,Tottenham Hale,832
+Bounds Green,Wood Green,658
+Plaistow,Upton Park,303
+Bethnal Green,Liverpool Street,1028
+Camden Town,Chalk Farm,978
+Brent Cross,Hendon Central,302
+Euston Square,Great Portland Street,173
+Baker Street,Regents Park,296
+Upminster,Upminster Bridge,328
+Leytonstone,Wanstead,249
+Colliers Wood,South Wimbledon,678
+Finsbury Park,Highbury and Islington,1027
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,412
+Embankment,Waterloo,1967
+East Putney,Southfields,603
+Fulham Broadway,Parsons Green,592
+Ruislip Gardens,West Ruislip,145
+Harrow-on-the-Hill,West Harrow,237
+High Barnet,Totteridge and Whetstone,364
+Arsenal,Holloway Road,198
+Buckhurst Hill,Woodford,222
+Hounslow East,Osterley,174
+Holland Park,Shepherds Bush,762
+Shepherds Bush,White City,1096
+Barking,East Ham,742
+South Woodford,Woodford,280
+Earls Court,West Kensington,715
+Goodge Street,Tottenham Court Road,1044
+Golders Green,Hampstead,544
+Euston,Mornington Crescent,675
+Charing Cross,Piccadilly Circus,1280
+Maida Vale,Warwick Avenue,175
+Chalfont and Latimer,Chorleywood,188
+Kingsbury,Queensbury,193
+Clapham Common,Clapham North,462
+Colindale,Hendon Central,504
+Paddington,Warwick Avenue,1294
+Green Park,Oxford Circus,2594
+Hornchurch,Upminster Bridge,102
+Ealing Broadway,West Acton,462
+Caledonian Road,Kings Cross St. Pancras,1062
+Liverpool Street,Moorgate,1642
+Holland Park,Notting Hill Gate,577
+Morden,South Wimbledon,963
+Becontree,Dagenham Heathway,214
+Ickenham,Ruislip,108
+Alperton,Sudbury Town,177
+Burnt Oak,Edgware,459
+Finchley Road,Wembley Park,621
+Angel,Old Street,497
+Roding Valley,Woodford,150
+Bethnal Green,Mile End,521
+Borough,London Bridge,1335
+Covent Garden,Holborn,936
+Ruislip Gardens,South Ruislip,147
+Canary Wharf,North Greenwich,2904
+Kensal Green,Willesden Junction,332
+Arnos Grove,Bounds Green,347
+Barons Court,Earls Court,831
+Lancaster Gate,Queensway,413
+Belsize Park,Chalk Farm,417
+Kentish Town,Tufnell Park,340
+Gloucester Road,High Street Kensington,685
+East Acton,North Acton,249
+Blackfriars,Mansion House,441
+Chorleywood,Rickmansworth,121
+North Harrow,Pinner,114
+Bermondsey,London Bridge,1703
+Brent Cross,Golders Green,381
+Caledonian Road,Holloway Road,203
+Kilburn,Willesden Green,420
+East Finchley,Finchley Central,634
+Earls Court,West Brompton,736
+Covent Garden,Leicester Square,1317
+Camden Town,Kentish Town,1002
+Shepherds Bush Market,Wood Lane,736
+Tooting Bec,Tooting Broadway,1011
+Oxford Circus,Tottenham Court Road,3143
+Euston,Warren Street,590
+Kennington,Waterloo,1615
+Neasden,Wembley Park,447
+Cannon Street,Mansion House,155
+Arsenal,Finsbury Park,761
+Dagenham East,Dagenham Heathway,204
+Hounslow Central,Hounslow East,199
+Harrow-on-the-Hill,North Harrow,310
+Embankment,Temple,439
+Elephant and Castle,Kennington,592
+Dollis Hill,Willesden Green,344
+Moor Park,Northwood,84
+Chancery Lane,St. Pauls,264
+Sloane Square,South Kensington,1372
+Canning Town,West Ham,612
+Earls Court,High Street Kensington,1253
+Aldgate,Liverpool Street,992
+Green Park,Piccadilly Circus,1595
+Chancery Lane,Holborn,417
+Monument,Waterloo,2028
+Edgware Road (Bakerloo),Marylebone,197
+Clapham North,Stockwell,458
+Northwood Hills,Pinner,140
+Leytonstone,Snaresbrook,248
+East Ham,Upton Park,597
+Hillingdon,Uxbridge,538
+London Bridge,Southwark,1321
+St. Johns Wood,Swiss Cottage,224
+Croxley,Watford,114
+Lancaster Gate,Marble Arch,540
+Debden,Loughton,226
+Baker Street,Finchley Road,736
+St. Jamess Park,Westminster,473
+Stepney Green,Whitechapel,396
+Waterloo,Westminster,1966
+Euston,Kings Cross St. Pancras,1740
+Euston Square,Kings Cross St. Pancras,1005
+Hounslow Central,Hounslow West,185
+Canons Park,Stanmore,323
+Harlesden,Stonebridge Park,177
+Blackfriars,Temple,360
+Eastcote,Ruislip Manor,105
+Bow Road,Bromley-by-Bow,151
+Barons Court,West Kensington,233
+Canons Park,Queensbury,245
+Hyde Park Corner,Knightsbridge,686
+Royal Oak,Westbourne Park,162
+Stratford,West Ham,2744
+Hatton Cross,Heathrow Terminals 1 2 3,618
+Arnos Grove,Southgate,421
+Hatton Cross,Hounslow West,213
+Acton Town,Chiswick Park,213
+Finsbury Park,Manor House,940
+Moorgate,Old Street,614
+Becontree,Upney,151
+Embankment,Westminster,1058
+Charing Cross,Leicester Square,1785
+Turnpike Lane,Wood Green,675
+East Putney,Putney Bridge,737
+Hanger Lane,Perivale,132
+Redbridge,Wanstead,139
+Parsons Green,Putney Bridge,661
+Kensal Green,Queens Park,275
+Notting Hill Gate,Queensway,621
+Amersham,Chalfont and Latimer,211
+Barbican,Moorgate,373
+Boston Manor,Osterley,136
+Edgware Road (Bakerloo),Paddington,1113
+Blackhorse Road,Tottenham Hale,1256
+Epping,Theydon Bois,330
+Green Park,Hyde Park Corner,576
+Aldgate,Tower Hill,493
+Monument,St. Pauls,526
+Baker Street,Bond Street,1416
+Archway,Highgate,509
+Hanger Lane,North Acton,254
+Kennington,Oval,212
+Stamford Brook,Turnham Green,314
+Borough,Elephant and Castle,344
+Rayners Lane,West Harrow,109
+East Finchley,Highgate,392
+Oval,Stockwell,370
+Ravenscourt Park,Stamford Brook,185
+Oakwood,Southgate,399
+Bond Street,Oxford Circus,2364
+Fulham Broadway,West Brompton,429
+North Acton,West Acton,178
+Burnt Oak,Colindale,533
+Oxford Circus,Piccadilly Circus,2434
+Source Station,Target Station,Weight
+Ravenscourt Park,Stamford Brook,166
+Bond Street,Green Park,1531
+Moor Park,Northwood,122
+Clapham North,Stockwell,478
+Buckhurst Hill,Woodford,237
+Sloane Square,Victoria,1302
+Baker Street,Finchley Road,798
+Latimer Road,Wood Lane,482
+Euston Square,Great Portland Street,196
+Mile End,Stepney Green,334
+Aldgate,Liverpool Street,949
+Grange Hill,Hainault,83
+Harrow-on-the-Hill,West Harrow,219
+Leicester Square,Tottenham Court Road,2945
+East Putney,Putney Bridge,718
+Leytonstone,Snaresbrook,246
+Oxford Circus,Regents Park,719
+Debden,Theydon Bois,173
+Ealing Broadway,Ealing Common,510
+Kentish Town,Tufnell Park,349
+Barking,Upney,617
+Kensal Green,Willesden Junction,339
+Holborn,Tottenham Court Road,2020
+Becontree,Dagenham Heathway,244
+Finchley Road,Swiss Cottage,273
+Acton Town,South Ealing,214
+Barking,East Ham,816
+Canning Town,North Greenwich,1599
+Camden Town,Kentish Town,997
+Chigwell,Roding Valley,9
+East Ham,Upton Park,588
+Gunnersbury,Turnham Green,412
+Pimlico,Victoria,1110
+Colliers Wood,Tooting Broadway,1043
+Harrow and Wealdstone,Kenton,251
+Greenford,Northolt,313
+Bond Street,Oxford Circus,2239
+Northolt,South Ruislip,280
+Amersham,Chalfont and Latimer,239
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,443
+Dollis Hill,Willesden Green,291
+Hounslow Central,Hounslow East,204
+Wimbledon,Wimbledon Park,2113
+Belsize Park,Hampstead,435
+Euston,Kings Cross St. Pancras,1797
+Tooting Bec,Tooting Broadway,1033
+Charing Cross,Embankment,821
+Bethnal Green,Mile End,535
+Gants Hill,Redbridge,226
+Golders Green,Hampstead,467
+Kilburn,West Hampstead,454
+Bethnal Green,Liverpool Street,1018
+Chiswick Park,Turnham Green,230
+Finchley Central,West Finchley,325
+Goldhawk Road,Shepherds Bush Market,334
+Euston,Warren Street,569
+Parsons Green,Putney Bridge,652
+Sloane Square,South Kensington,1315
+Colliers Wood,South Wimbledon,747
+Lancaster Gate,Marble Arch,515
+Monument,Tower Hill,1132
+Earls Court,Kensington (Olympia),410
+East Acton,North Acton,220
+North Ealing,Park Royal,71
+Bayswater,Notting Hill Gate,393
+Chorleywood,Rickmansworth,120
+St. Johns Wood,Swiss Cottage,190
+Arsenal,Finsbury Park,787
+Baker Street,Bond Street,1374
+Finchley Road,West Hampstead,375
+Totteridge and Whetstone,Woodside Park,331
+Elm Park,Hornchurch,139
+Waterloo,Westminster,2021
+Angel,Kings Cross St. Pancras,1400
+Northfields,South Ealing,159
+Harrow-on-the-Hill,Northwick Park,264
+Royal Oak,Westbourne Park,175
+Fulham Broadway,West Brompton,418
+Oxford Circus,Piccadilly Circus,2343
+Aldgate East,Tower Hill,870
+Moorgate,Old Street,644
+Kingsbury,Queensbury,142
+Hillingdon,Uxbridge,528
+Embankment,Temple,457
+Preston Road,Wembley Park,391
+Monument,Cannon Street,312
+Canons Park,Queensbury,257
+Monument,St. Pauls,584
+Ruislip Gardens,South Ruislip,180
+Hounslow Central,Hounslow West,194
+Bond Street,Marble Arch,874
+Hyde Park Corner,Knightsbridge,673
+Goodge Street,Tottenham Court Road,995
+Chalfont and Latimer,Chesham,114
+Goodge Street,Warren Street,223
+Covent Garden,Holborn,884
+Snaresbrook,South Woodford,169
+Notting Hill Gate,Queensway,688
+Highbury and Islington,Kings Cross St. Pancras,1364
+Acton Town,Ealing Common,200
+St. Jamess Park,Westminster,485
+Canning Town,West Ham,676
+Camden Town,Chalk Farm,1012
+Kilburn Park,Maida Vale,208
+Rayners Lane,South Harrow,124
+Archway,Tufnell Park,462
+Gloucester Road,South Kensington,1406
+Cannon Street,Mansion House,145
+Kew Gardens,Richmond,1831
+Debden,Loughton,244
+Mile End,Stratford,2704
+Hatton Cross,Heathrow Terminal 4,231
+Monument,London Bridge,2635
+Southfields,Wimbledon Park,474
+Euston,Mornington Crescent,653
+Camden Town,Mornington Crescent,1017
+Bermondsey,London Bridge,1735
+Barbican,Farringdon,271
+Gants Hill,Newbury Park,266
+Harlesden,Willesden Junction,315
+Stockwell,Vauxhall,1347
+Canons Park,Stanmore,330
+Oxford Circus,Warren Street,1259
+Kilburn,Willesden Green,419
+Stamford Brook,Turnham Green,310
+Ickenham,Ruislip,104
+Monument,Waterloo,2046
+Finsbury Park,Seven Sisters,1182
+North Wembley,South Kenton,98
+Caledonian Road,Kings Cross St. Pancras,1118
+Kennington,Nine Elms,303
+Rayners Lane,West Harrow,82
+Oakwood,Southgate,410
+Covent Garden,Leicester Square,1241
+Brent Cross,Hendon Central,356
+Ealing Broadway,West Acton,436
+Ladbroke Grove,Westbourne Park,519
+Arnos Grove,Southgate,379
+Kenton,South Kenton,156
+Lancaster Gate,Queensway,443
+East Finchley,Highgate,385
+Euston Square,Kings Cross St. Pancras,1016
+Finchley Central,Mill Hill East,297
+Holland Park,Notting Hill Gate,475
+Holland Park,Shepherds Bush,741
+Plaistow,Upton Park,309
+Kingsbury,Wembley Park,515
+North Wembley,Wembley Central,331
+Aldgate East,Liverpool Street,1588
+Green Park,Oxford Circus,2570
+Edgware Road (Bakerloo),Marylebone,232
+Canada Water,Canary Wharf,1850
+St. Jamess Park,Victoria,907
+Finsbury Park,Highbury and Islington,1034
+Bow Road,Bromley-by-Bow,151
+Neasden,Wembley Park,455
+Clapham Common,Clapham South,555
+Maida Vale,Warwick Avenue,197
+Hatton Cross,Hounslow West,209
+Monument,Moorgate,979
+Liverpool Street,Moorgate,1725
+Stepney Green,Whitechapel,387
+Baker Street,St. Johns Wood,571
+Shepherds Bush,White City,1137
+Farringdon,Kings Cross St. Pancras,1351
+Leytonstone,Wanstead,243
+Harlesden,Stonebridge Park,180
+Green Park,Westminster,1133
+Elephant and Castle,Kennington,592
+Barons Court,West Kensington,289
+Borough,London Bridge,1383
+Dagenham East,Elm Park,126
+Sudbury Hill,Sudbury Town,60
+Balham,Clapham South,753
+South Woodford,Woodford,284
+Earls Court,West Kensington,763
+Ruislip,Ruislip Manor,124
+Chancery Lane,Holborn,405
+Morden,South Wimbledon,1027
+London Bridge,Southwark,1307
+Elephant and Castle,Lambeth North,361
+Oval,Stockwell,364
+Northwick Park,Preston Road,99
+Croxley,Moor Park,90
+Barbican,Moorgate,357
+Cockfosters,Oakwood,251
+Leyton,Stratford,1692
+Chalfont and Latimer,Chorleywood,162
+Archway,Highgate,462
+Shepherds Bush Market,Wood Lane,804
+Hornchurch,Upminster Bridge,93
+Canary Wharf,North Greenwich,2912
+Bow Road,Mile End,317
+Moor Park,Rickmansworth,107
+Camden Town,Euston,1881
+Kennington,Oval,213
+Burnt Oak,Edgware,495
+Borough,Elephant and Castle,330
+Seven Sisters,Tottenham Hale,801
+Brixton,Stockwell,1550
+High Barnet,Totteridge and Whetstone,369
+Charing Cross,Piccadilly Circus,1265
+Holborn,Russell Square,445
+Colindale,Hendon Central,504
+Becontree,Upney,113
+Bromley-by-Bow,West Ham,246
+Green Park,Piccadilly Circus,1557
+Hanger Lane,North Acton,250
+East Acton,White City,380
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,444
+Barkingside,Newbury Park,180
+Paddington,Royal Oak,1086
+Angel,Old Street,542
+Acton Town,Chiswick Park,199
+East Finchley,Finchley Central,558
+Blackfriars,Mansion House,473
+Southwark,Waterloo,962
+Dagenham East,Dagenham Heathway,208
+Ladbroke Grove,Latimer Road,541
+Aldgate East,Whitechapel,640
+Blackhorse Road,Walthamstow Central,1431
+Ruislip Gardens,West Ruislip,138
+Pimlico,Vauxhall,708
+Green Park,Hyde Park Corner,543
+Embankment,Waterloo,1831
+Baker Street,Marylebone,496
+Belsize Park,Chalk Farm,430
+Arsenal,Holloway Road,205
+Finsbury Park,Manor House,981
+Fairlop,Hainault,124
+Buckhurst Hill,Loughton,241
+Boston Manor,Osterley,117
+Charing Cross,Leicester Square,1668
+Finchley Road,Wembley Park,638
+Green Park,Victoria,2138
+Kilburn Park,Queens Park,339
+High Street Kensington,Notting Hill Gate,733
+Dollis Hill,Neasden,184
+Embankment,Westminster,1077
+Knightsbridge,South Kensington,1830
+Earls Court,High Street Kensington,1116
+Blackfriars,Temple,398
+Monument,Liverpool Street,2449
+Alperton,Park Royal,151
+Turnpike Lane,Wood Green,670
+Burnt Oak,Colindale,518
+Kennington,Waterloo,1716
+Battersea Power Station,Nine Elms,1149
+Chancery Lane,St. Pauls,225
+Barons Court,Earls Court,860
+Plaistow,West Ham,246
+Ealing Common,North Ealing,65
+North Harrow,Pinner,125
+Caledonian Road,Holloway Road,223
+Blackhorse Road,Tottenham Hale,1274
+Earls Court,Gloucester Road,1161
+Northwood Hills,Pinner,130
+Leyton,Leytonstone,598
+Redbridge,Wanstead,136
+Arnos Grove,Bounds Green,353
+Gunnersbury,Kew Gardens,687
+Chigwell,Grange Hill,16
+Manor House,Turnpike Lane,458
+Upminster,Upminster Bridge,337
+Eastcote,Rayners Lane,125
+Acton Town,Turnham Green,459
+Paddington,Warwick Avenue,1280
+Kensal Green,Queens Park,305
+Bermondsey,Canada Water,634
+Brent Cross,Golders Green,396
+Gloucester Road,High Street Kensington,619
+North Acton,West Acton,165
+Clapham Common,Clapham North,471
+Fulham Broadway,Parsons Green,517
+Hounslow East,Osterley,172
+Hatton Cross,Heathrow Terminals 1 2 3,620
+Stratford,West Ham,2743
+Bayswater,Paddington,1028
+Hanger Lane,Perivale,162
+East Putney,Southfields,575
+Hillingdon,Ickenham,124
+Stonebridge Park,Wembley Central,308
+Lambeth North,Waterloo,967
+Alperton,Sudbury Town,131
+Kings Cross St. Pancras,Russell Square,941
+Epping,Theydon Bois,371
+Edgware Road (Bakerloo),Paddington,1156
+Balham,Tooting Bec,750
+Oxford Circus,Tottenham Court Road,3198
+Earls Court,West Brompton,665
+Barkingside,Fairlop,97
+Roding Valley,Woodford,118
+Bounds Green,Wood Green,582
+Greenford,Perivale,195
+Baker Street,Regents Park,313
+Croxley,Watford,96
+Baker Street,Great Portland Street,451
+Northwood,Northwood Hills,98
+West Finchley,Woodside Park,206
+Leicester Square,Piccadilly Circus,2275
+South Harrow,Sudbury Hill,87
+Harrow-on-the-Hill,North Harrow,294
+Eastcote,Ruislip Manor,102
+Boston Manor,Northfields,174
+Aldgate,Tower Hill,506
+Source Station,Target Station,Weight
+Oxford Circus,Regents Park,724
+Arnos Grove,Southgate,404
+Fulham Broadway,West Brompton,407
+Brent Cross,Golders Green,359
+Burnt Oak,Edgware,487
+Kilburn Park,Maida Vale,206
+Green Park,Piccadilly Circus,1477
+Shepherds Bush,White City,1072
+Leicester Square,Piccadilly Circus,2249
+Bond Street,Oxford Circus,2276
+Hornchurch,Upminster Bridge,109
+Alperton,Park Royal,185
+Finchley Road,Swiss Cottage,285
+Brixton,Stockwell,1607
+St. Johns Wood,Swiss Cottage,221
+Greenford,Perivale,205
+Dagenham East,Elm Park,156
+Euston Square,Great Portland Street,176
+Ealing Broadway,West Acton,470
+Southwark,Waterloo,968
+Colliers Wood,South Wimbledon,691
+Acton Town,Chiswick Park,200
+Leicester Square,Tottenham Court Road,2959
+Moor Park,Northwood,112
+Baker Street,Great Portland Street,416
+North Wembley,South Kenton,117
+Angel,Old Street,522
+Holborn,Russell Square,467
+Dollis Hill,Neasden,161
+Leyton,Stratford,1656
+Goldhawk Road,Shepherds Bush Market,334
+Cannon Street,Mansion House,134
+Bond Street,Marble Arch,912
+Finsbury Park,Seven Sisters,1203
+Gunnersbury,Kew Gardens,684
+Barking,East Ham,810
+Seven Sisters,Tottenham Hale,774
+Camden Town,Mornington Crescent,936
+North Acton,West Acton,186
+Monument,Liverpool Street,2359
+Tooting Bec,Tooting Broadway,1023
+Euston Square,Kings Cross St. Pancras,997
+Finchley Central,West Finchley,353
+West Finchley,Woodside Park,193
+Acton Town,South Ealing,226
+Kenton,South Kenton,162
+Canary Wharf,North Greenwich,2956
+Green Park,Victoria,2066
+Debden,Loughton,264
+Hillingdon,Ickenham,138
+High Street Kensington,Notting Hill Gate,730
+North Ealing,Park Royal,71
+Blackfriars,Temple,448
+Pimlico,Victoria,1108
+Oxford Circus,Warren Street,1313
+Hounslow East,Osterley,212
+Caledonian Road,Holloway Road,231
+Balham,Tooting Bec,859
+Southfields,Wimbledon Park,516
+Ladbroke Grove,Westbourne Park,527
+Harlesden,Stonebridge Park,162
+Highbury and Islington,Kings Cross St. Pancras,1382
+Cockfosters,Oakwood,258
+Harrow-on-the-Hill,Northwick Park,312
+Hatton Cross,Hounslow West,202
+Dagenham East,Dagenham Heathway,208
+Blackfriars,Mansion House,400
+Knightsbridge,South Kensington,1685
+Covent Garden,Leicester Square,1355
+Earls Court,Gloucester Road,1240
+Stockwell,Vauxhall,1348
+Aldgate East,Whitechapel,585
+Earls Court,West Kensington,720
+Turnpike Lane,Wood Green,650
+Camden Town,Kentish Town,954
+Chigwell,Grange Hill,10
+Gants Hill,Newbury Park,266
+Maida Vale,Warwick Avenue,189
+Bounds Green,Wood Green,599
+Angel,Kings Cross St. Pancras,1455
+Caledonian Road,Kings Cross St. Pancras,1047
+Stepney Green,Whitechapel,383
+Baker Street,Bond Street,1384
+Bow Road,Mile End,328
+Barbican,Farringdon,293
+Hanger Lane,Perivale,169
+Northfields,South Ealing,177
+Chancery Lane,St. Pauls,259
+Barking,Upney,588
+Eastcote,Rayners Lane,143
+Barons Court,West Kensington,274
+Chorleywood,Rickmansworth,124
+East Putney,Putney Bridge,751
+Bow Road,Bromley-by-Bow,175
+Totteridge and Whetstone,Woodside Park,319
+Oval,Stockwell,392
+Oakwood,Southgate,437
+Boston Manor,Osterley,160
+Baker Street,St. Johns Wood,568
+Paddington,Royal Oak,1214
+Baker Street,Marylebone,544
+Monument,Cannon Street,315
+Stamford Brook,Turnham Green,283
+Finchley Central,Mill Hill East,271
+Lancaster Gate,Queensway,433
+Finchley Road,West Hampstead,423
+Farringdon,Kings Cross St. Pancras,1419
+East Putney,Southfields,606
+Kingsbury,Wembley Park,460
+Camden Town,Chalk Farm,981
+Hounslow Central,Hounslow West,184
+Embankment,Waterloo,1970
+Plaistow,West Ham,228
+Holborn,Tottenham Court Road,2001
+Sudbury Hill,Sudbury Town,87
+Aldgate East,Tower Hill,896
+Ruislip,Ruislip Manor,135
+Earls Court,West Brompton,665
+Clapham Common,Clapham South,550
+East Finchley,Finchley Central,524
+Embankment,Westminster,1085
+Harrow-on-the-Hill,North Harrow,258
+Northolt,South Ruislip,272
+Monument,Tower Hill,1216
+Ickenham,Ruislip,111
+Kensal Green,Queens Park,306
+Mile End,Stratford,2769
+Amersham,Chalfont and Latimer,218
+Barons Court,Earls Court,834
+Gloucester Road,South Kensington,1401
+Aldgate,Liverpool Street,990
+Harrow-on-the-Hill,West Harrow,172
+Bond Street,Green Park,1562
+Northwood,Northwood Hills,85
+Waterloo,Westminster,1971
+High Barnet,Totteridge and Whetstone,351
+Gloucester Road,High Street Kensington,660
+Ruislip Gardens,West Ruislip,172
+Bermondsey,Canada Water,625
+Preston Road,Wembley Park,385
+Eastcote,Ruislip Manor,124
+Fairlop,Hainault,127
+Hatton Cross,Heathrow Terminal 4,288
+Greenford,Northolt,298
+Hillingdon,Uxbridge,467
+Burnt Oak,Colindale,569
+Canons Park,Stanmore,354
+Hatton Cross,Heathrow Terminals 1 2 3,603
+Canada Water,Canary Wharf,1893
+Barbican,Moorgate,328
+Snaresbrook,South Woodford,152
+Kings Cross St. Pancras,Russell Square,989
+Manor House,Turnpike Lane,526
+Shepherds Bush Market,Wood Lane,742
+Leyton,Leytonstone,468
+Canons Park,Queensbury,283
+Finsbury Park,Highbury and Islington,1102
+Acton Town,Ealing Common,178
+Stonebridge Park,Wembley Central,319
+Epping,Theydon Bois,341
+Charing Cross,Leicester Square,1767
+Upminster,Upminster Bridge,341
+Covent Garden,Holborn,850
+Northwood Hills,Pinner,152
+Oxford Circus,Piccadilly Circus,2350
+Archway,Tufnell Park,398
+St. Jamess Park,Victoria,912
+Notting Hill Gate,Queensway,741
+Kilburn,Willesden Green,452
+Buckhurst Hill,Loughton,220
+Battersea Power Station,Nine Elms,1154
+Rayners Lane,South Harrow,116
+Borough,Elephant and Castle,316
+Roding Valley,Woodford,144
+Hanger Lane,North Acton,223
+Monument,London Bridge,2649
+Liverpool Street,Moorgate,1707
+Edgware Road (Bakerloo),Paddington,1091
+Kennington,Waterloo,1647
+London Bridge,Southwark,1359
+Barkingside,Fairlop,84
+Blackhorse Road,Walthamstow Central,1330
+Finsbury Park,Manor House,929
+Rayners Lane,West Harrow,66
+Camden Town,Euston,1880
+Belsize Park,Hampstead,383
+Borough,London Bridge,1398
+Kilburn Park,Queens Park,317
+Debden,Theydon Bois,177
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,439
+Bayswater,Paddington,1000
+Chancery Lane,Holborn,443
+Mile End,Stepney Green,315
+Embankment,Temple,527
+Chiswick Park,Turnham Green,260
+Euston,Mornington Crescent,649
+Northwick Park,Preston Road,81
+Edgware Road (Bakerloo),Marylebone,221
+Green Park,Oxford Circus,2613
+Neasden,Wembley Park,458
+Canning Town,West Ham,596
+Lambeth North,Waterloo,938
+Parsons Green,Putney Bridge,638
+Elephant and Castle,Kennington,588
+East Acton,North Acton,260
+Kennington,Oval,240
+Blackhorse Road,Tottenham Hale,1259
+Pimlico,Vauxhall,670
+Harlesden,Willesden Junction,307
+Goodge Street,Tottenham Court Road,1013
+Becontree,Upney,121
+Hounslow Central,Hounslow East,158
+Sloane Square,Victoria,1293
+Croxley,Moor Park,59
+Croxley,Watford,104
+Alperton,Sudbury Town,138
+Stratford,West Ham,2702
+Elm Park,Hornchurch,136
+Barkingside,Newbury Park,182
+Earls Court,Kensington (Olympia),403
+Leytonstone,Snaresbrook,262
+Dollis Hill,Willesden Green,280
+Arnos Grove,Bounds Green,365
+Ealing Broadway,Ealing Common,542
+Redbridge,Wanstead,136
+Bethnal Green,Mile End,504
+Monument,Moorgate,945
+Green Park,Westminster,1244
+Grange Hill,Hainault,81
+Sloane Square,South Kensington,1406
+Arsenal,Finsbury Park,802
+Paddington,Warwick Avenue,1359
+Bermondsey,London Bridge,1703
+Brent Cross,Hendon Central,353
+Chalfont and Latimer,Chesham,161
+Baker Street,Regents Park,296
+Baker Street,Finchley Road,773
+Charing Cross,Piccadilly Circus,1300
+Holland Park,Shepherds Bush,743
+Holland Park,Notting Hill Gate,544
+Monument,Waterloo,1958
+Latimer Road,Wood Lane,478
+Gunnersbury,Turnham Green,404
+Belsize Park,Chalk Farm,383
+South Harrow,Sudbury Hill,124
+Kilburn,West Hampstead,451
+Moorgate,Old Street,671
+Lancaster Gate,Marble Arch,521
+Chigwell,Roding Valley,11
+Aldgate,Tower Hill,511
+South Woodford,Woodford,303
+Fulham Broadway,Parsons Green,552
+Kingsbury,Queensbury,157
+Charing Cross,Embankment,815
+Harrow and Wealdstone,Kenton,297
+Hyde Park Corner,Knightsbridge,707
+Aldgate East,Liverpool Street,1651
+Canning Town,North Greenwich,1732
+Leytonstone,Wanstead,288
+Colliers Wood,Tooting Broadway,1181
+Golders Green,Hampstead,488
+Earls Court,High Street Kensington,1177
+Bayswater,Notting Hill Gate,405
+Clapham North,Stockwell,435
+Gants Hill,Redbridge,207
+Bethnal Green,Liverpool Street,1001
+Ealing Common,North Ealing,58
+East Ham,Upton Park,591
+Elephant and Castle,Lambeth North,329
+North Harrow,Pinner,118
+Finchley Road,Wembley Park,696
+Buckhurst Hill,Woodford,240
+Green Park,Hyde Park Corner,499
+Clapham Common,Clapham North,446
+Archway,Highgate,486
+Oxford Circus,Tottenham Court Road,3340
+Euston,Warren Street,553
+Euston,Kings Cross St. Pancras,1796
+Kew Gardens,Richmond,1731
+Kennington,Nine Elms,255
+St. Jamess Park,Westminster,522
+Plaistow,Upton Park,319
+Ruislip Gardens,South Ruislip,158
+Chalfont and Latimer,Chorleywood,155
+Royal Oak,Westbourne Park,198
+Goodge Street,Warren Street,228
+Kensal Green,Willesden Junction,288
+North Wembley,Wembley Central,285
+Bromley-by-Bow,West Ham,206
+Colindale,Hendon Central,542
+East Finchley,Highgate,411
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,464
+Ravenscourt Park,Stamford Brook,189
+East Acton,White City,371
+Becontree,Dagenham Heathway,188
+Moor Park,Rickmansworth,103
+Ladbroke Grove,Latimer Road,609
+Morden,South Wimbledon,1001
+Monument,St. Pauls,533
+Arsenal,Holloway Road,200
+Acton Town,Turnham Green,537
+Kentish Town,Tufnell Park,320
+Boston Manor,Northfields,149
+Balham,Clapham South,725
+Wimbledon,Wimbledon Park,2126
+Source Station,Target Station,Weight
+Kilburn,Willesden Green,450
+Green Park,Piccadilly Circus,1563
+Angel,Kings Cross St. Pancras,1376
+Ladbroke Grove,Westbourne Park,545
+Clapham Common,Clapham North,415
+Mile End,Stepney Green,401
+Harrow-on-the-Hill,West Harrow,231
+Boston Manor,Osterley,156
+Kingsbury,Queensbury,179
+Waterloo,Westminster,1948
+Moor Park,Rickmansworth,102
+Paddington,Warwick Avenue,1253
+Borough,Elephant and Castle,372
+Stockwell,Vauxhall,1386
+Chiswick Park,Turnham Green,251
+Liverpool Street,Moorgate,1642
+Battersea Power Station,Nine Elms,1151
+Blackfriars,Mansion House,460
+Paddington,Royal Oak,1192
+Finchley Central,West Finchley,318
+Bow Road,Bromley-by-Bow,154
+Hanger Lane,North Acton,248
+Dollis Hill,Willesden Green,320
+Finchley Central,Mill Hill East,270
+Harlesden,Willesden Junction,348
+Bethnal Green,Liverpool Street,1041
+Gloucester Road,High Street Kensington,721
+Kennington,Nine Elms,296
+Oxford Circus,Piccadilly Circus,2407
+Monument,Waterloo,2046
+Debden,Loughton,256
+Baker Street,Regents Park,321
+Snaresbrook,South Woodford,165
+Barking,East Ham,805
+Kensal Green,Queens Park,297
+Finchley Road,Swiss Cottage,245
+Kings Cross St. Pancras,Russell Square,974
+Hanger Lane,Perivale,177
+Arnos Grove,Southgate,420
+Holland Park,Shepherds Bush,772
+Elephant and Castle,Kennington,601
+Alperton,Sudbury Town,142
+Bounds Green,Wood Green,595
+Fulham Broadway,Parsons Green,546
+Euston,Kings Cross St. Pancras,1804
+Finchley Road,West Hampstead,373
+Canning Town,West Ham,591
+Hornchurch,Upminster Bridge,124
+Bond Street,Oxford Circus,2288
+Canada Water,Canary Wharf,1856
+East Ham,Upton Park,576
+Northwood,Northwood Hills,122
+Monument,Cannon Street,319
+Gunnersbury,Turnham Green,456
+Sloane Square,Victoria,1354
+Euston,Warren Street,610
+Lambeth North,Waterloo,881
+Cannon Street,Mansion House,168
+Totteridge and Whetstone,Woodside Park,330
+Blackfriars,Temple,389
+Canning Town,North Greenwich,1678
+Kensal Green,Willesden Junction,328
+Oxford Circus,Regents Park,685
+Kenton,South Kenton,159
+Sudbury Hill,Sudbury Town,89
+Seven Sisters,Tottenham Hale,846
+Monument,Tower Hill,1127
+Stepney Green,Whitechapel,361
+Goldhawk Road,Shepherds Bush Market,320
+Sloane Square,South Kensington,1299
+Archway,Tufnell Park,397
+Hyde Park Corner,Knightsbridge,679
+South Harrow,Sudbury Hill,98
+Ruislip,Ruislip Manor,116
+Croxley,Moor Park,63
+Gants Hill,Newbury Park,250
+Maida Vale,Warwick Avenue,161
+North Ealing,Park Royal,90
+Plaistow,West Ham,233
+Wimbledon,Wimbledon Park,2092
+Leytonstone,Snaresbrook,257
+Shepherds Bush,White City,1104
+Camden Town,Mornington Crescent,976
+Lancaster Gate,Marble Arch,528
+Greenford,Northolt,292
+Angel,Old Street,540
+Blackhorse Road,Tottenham Hale,1255
+Earls Court,High Street Kensington,1192
+Chigwell,Grange Hill,14
+Barbican,Moorgate,389
+Plaistow,Upton Park,346
+Brent Cross,Golders Green,338
+High Street Kensington,Notting Hill Gate,729
+Acton Town,Ealing Common,218
+Grange Hill,Hainault,85
+Northolt,South Ruislip,259
+Caledonian Road,Holloway Road,238
+Kennington,Waterloo,1587
+Cockfosters,Oakwood,266
+Chalfont and Latimer,Chesham,135
+Amersham,Chalfont and Latimer,218
+Borough,London Bridge,1281
+East Finchley,Highgate,424
+Finsbury Park,Manor House,936
+Chorleywood,Rickmansworth,121
+Earls Court,Gloucester Road,1221
+Aldgate,Liverpool Street,948
+Colliers Wood,South Wimbledon,705
+Stratford,West Ham,2724
+Clapham Common,Clapham South,607
+Northfields,South Ealing,150
+Hounslow Central,Hounslow East,212
+Monument,Moorgate,957
+Pimlico,Vauxhall,681
+Eastcote,Rayners Lane,131
+Arnos Grove,Bounds Green,376
+St. Johns Wood,Swiss Cottage,209
+Oakwood,Southgate,386
+Edgware Road (Bakerloo),Paddington,1151
+Chancery Lane,St. Pauls,262
+Fulham Broadway,West Brompton,437
+Hatton Cross,Hounslow West,251
+North Harrow,Pinner,120
+Colindale,Hendon Central,509
+Euston Square,Kings Cross St. Pancras,1037
+Ruislip Gardens,West Ruislip,138
+Archway,Highgate,466
+Monument,Liverpool Street,2184
+Edgware Road (Bakerloo),Marylebone,230
+Earls Court,Kensington (Olympia),408
+Kilburn,West Hampstead,478
+Mile End,Stratford,2779
+Arsenal,Holloway Road,192
+North Wembley,Wembley Central,311
+Aldgate East,Whitechapel,619
+Gunnersbury,Kew Gardens,663
+Camden Town,Chalk Farm,915
+Monument,London Bridge,2662
+Greenford,Perivale,201
+Kentish Town,Tufnell Park,366
+Holland Park,Notting Hill Gate,429
+Arsenal,Finsbury Park,808
+Baker Street,St. Johns Wood,545
+Latimer Road,Wood Lane,416
+Knightsbridge,South Kensington,1680
+Chalfont and Latimer,Chorleywood,179
+Green Park,Victoria,2002
+Northwick Park,Preston Road,102
+Southwark,Waterloo,949
+Leyton,Leytonstone,538
+Neasden,Wembley Park,448
+Earls Court,West Kensington,722
+Hounslow East,Osterley,160
+Kilburn Park,Queens Park,343
+East Acton,White City,359
+Oxford Circus,Tottenham Court Road,3140
+Upminster,Upminster Bridge,326
+Caledonian Road,Kings Cross St. Pancras,1100
+Stamford Brook,Turnham Green,276
+Holborn,Tottenham Court Road,2121
+Bermondsey,Canada Water,657
+Leyton,Stratford,1659
+Baker Street,Finchley Road,741
+Barbican,Farringdon,250
+Oxford Circus,Warren Street,1230
+Embankment,Temple,447
+Morden,South Wimbledon,982
+Leicester Square,Tottenham Court Road,2955
+Baker Street,Marylebone,550
+Chancery Lane,Holborn,455
+Balham,Tooting Bec,851
+Tooting Bec,Tooting Broadway,1032
+Holborn,Russell Square,482
+Leicester Square,Piccadilly Circus,2266
+Turnpike Lane,Wood Green,634
+Monument,St. Pauls,535
+West Finchley,Woodside Park,193
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,460
+Charing Cross,Piccadilly Circus,1166
+Harrow and Wealdstone,Kenton,266
+Canary Wharf,North Greenwich,2807
+Fairlop,Hainault,125
+Green Park,Oxford Circus,2607
+Moor Park,Northwood,131
+Eastcote,Ruislip Manor,130
+Bow Road,Mile End,371
+Highbury and Islington,Kings Cross St. Pancras,1403
+Ickenham,Ruislip,128
+Becontree,Dagenham Heathway,215
+Acton Town,Turnham Green,489
+Bermondsey,London Bridge,1711
+Kingsbury,Wembley Park,517
+Stonebridge Park,Wembley Central,330
+Preston Road,Wembley Park,431
+East Finchley,Finchley Central,534
+Hounslow Central,Hounslow West,169
+Rayners Lane,South Harrow,156
+East Putney,Putney Bridge,670
+Chigwell,Roding Valley,8
+Aldgate,Tower Hill,546
+Croxley,Watford,108
+London Bridge,Southwark,1259
+Bond Street,Marble Arch,906
+Alperton,Park Royal,158
+Epping,Theydon Bois,301
+Goodge Street,Warren Street,225
+Hillingdon,Uxbridge,491
+Notting Hill Gate,Queensway,697
+Charing Cross,Leicester Square,1681
+Leytonstone,Wanstead,261
+Camden Town,Euston,1831
+Goodge Street,Tottenham Court Road,964
+East Acton,North Acton,261
+Debden,Theydon Bois,152
+Embankment,Waterloo,1921
+Barkingside,Fairlop,76
+Burnt Oak,Edgware,495
+Parsons Green,Putney Bridge,647
+Farringdon,Kings Cross St. Pancras,1429
+Harrow-on-the-Hill,North Harrow,302
+Gloucester Road,South Kensington,1340
+Southfields,Wimbledon Park,548
+East Putney,Southfields,579
+Aldgate East,Tower Hill,862
+Dagenham East,Elm Park,136
+Kilburn Park,Maida Vale,203
+Green Park,Hyde Park Corner,513
+Ealing Common,North Ealing,77
+Elephant and Castle,Lambeth North,308
+Acton Town,South Ealing,211
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,431
+Canons Park,Queensbury,233
+Earls Court,West Brompton,696
+Hillingdon,Ickenham,129
+Rayners Lane,West Harrow,85
+Bond Street,Green Park,1586
+Bethnal Green,Mile End,520
+Becontree,Upney,139
+Euston Square,Great Portland Street,180
+Green Park,Westminster,1188
+North Acton,West Acton,180
+Belsize Park,Chalk Farm,386
+Aldgate East,Liverpool Street,1638
+Colliers Wood,Tooting Broadway,1067
+Ladbroke Grove,Latimer Road,557
+Covent Garden,Holborn,846
+Hatton Cross,Heathrow Terminal 4,228
+South Woodford,Woodford,283
+Ealing Broadway,Ealing Common,536
+Manor House,Turnpike Lane,417
+Buckhurst Hill,Woodford,215
+Camden Town,Kentish Town,989
+Euston,Mornington Crescent,676
+Acton Town,Chiswick Park,251
+Covent Garden,Leicester Square,1344
+High Barnet,Totteridge and Whetstone,361
+Finchley Road,Wembley Park,666
+North Wembley,South Kenton,86
+Canons Park,Stanmore,351
+Roding Valley,Woodford,122
+Dollis Hill,Neasden,155
+Bromley-by-Bow,West Ham,207
+Belsize Park,Hampstead,440
+Royal Oak,Westbourne Park,179
+Gants Hill,Redbridge,234
+Moorgate,Old Street,687
+Brixton,Stockwell,1526
+Charing Cross,Embankment,821
+Harrow-on-the-Hill,Northwick Park,302
+Hatton Cross,Heathrow Terminals 1 2 3,600
+Clapham North,Stockwell,484
+Northwood Hills,Pinner,149
+Ravenscourt Park,Stamford Brook,181
+Elm Park,Hornchurch,134
+St. Jamess Park,Victoria,959
+Bayswater,Paddington,972
+Buckhurst Hill,Loughton,221
+Shepherds Bush Market,Wood Lane,769
+Redbridge,Wanstead,128
+Kennington,Oval,213
+Boston Manor,Northfields,167
+Blackhorse Road,Walthamstow Central,1395
+Burnt Oak,Colindale,527
+Ealing Broadway,West Acton,431
+Balham,Clapham South,707
+Golders Green,Hampstead,431
+Barons Court,Earls Court,818
+Bayswater,Notting Hill Gate,366
+Barkingside,Newbury Park,159
+Oval,Stockwell,367
+Harlesden,Stonebridge Park,175
+Embankment,Westminster,1136
+Ruislip Gardens,South Ruislip,178
+Barons Court,West Kensington,227
+Baker Street,Bond Street,1411
+St. Jamess Park,Westminster,500
+Finsbury Park,Seven Sisters,1195
+Baker Street,Great Portland Street,426
+Barking,Upney,568
+Kew Gardens,Richmond,1811
+Dagenham East,Dagenham Heathway,179
+Lancaster Gate,Queensway,375
+Pimlico,Victoria,1070
+Finsbury Park,Highbury and Islington,1037
+Brent Cross,Hendon Central,392
+Source Station,Target Station,Weight
+Ruislip Gardens,West Ruislip,130
+North Wembley,South Kenton,104
+Hounslow Central,Hounslow East,179
+Highbury and Islington,Kings Cross St. Pancras,1388
+Plaistow,West Ham,216
+Canning Town,North Greenwich,1656
+Gloucester Road,High Street Kensington,670
+Green Park,Oxford Circus,2543
+Baker Street,Regents Park,330
+Plaistow,Upton Park,308
+North Wembley,Wembley Central,307
+Monument,Waterloo,2072
+Hillingdon,Ickenham,122
+Holland Park,Shepherds Bush,752
+Hounslow East,Osterley,212
+East Acton,White City,379
+Blackhorse Road,Tottenham Hale,1302
+Kennington,Waterloo,1795
+Kensal Green,Queens Park,311
+Kilburn,West Hampstead,472
+Seven Sisters,Tottenham Hale,902
+Burnt Oak,Edgware,442
+Finchley Road,Swiss Cottage,260
+East Putney,Southfields,647
+Lancaster Gate,Marble Arch,486
+Euston Square,Great Portland Street,159
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,441
+Embankment,Temple,506
+Croxley,Moor Park,75
+Bethnal Green,Mile End,523
+Lambeth North,Waterloo,940
+Sudbury Hill,Sudbury Town,111
+Covent Garden,Holborn,905
+Boston Manor,Northfields,137
+Maida Vale,Warwick Avenue,166
+Clapham Common,Clapham South,595
+Parsons Green,Putney Bridge,670
+Kew Gardens,Richmond,1739
+Tooting Bec,Tooting Broadway,989
+Charing Cross,Embankment,816
+Southfields,Wimbledon Park,507
+Farringdon,Kings Cross St. Pancras,1428
+Aldgate East,Tower Hill,909
+Acton Town,Turnham Green,449
+Becontree,Dagenham Heathway,206
+Charing Cross,Leicester Square,1643
+Lancaster Gate,Queensway,413
+Bethnal Green,Liverpool Street,1041
+Ladbroke Grove,Latimer Road,584
+Ruislip Gardens,South Ruislip,158
+Belsize Park,Chalk Farm,374
+Northolt,South Ruislip,263
+Eastcote,Rayners Lane,133
+Angel,Kings Cross St. Pancras,1484
+Boston Manor,Osterley,129
+Hillingdon,Uxbridge,511
+Caledonian Road,Holloway Road,216
+Snaresbrook,South Woodford,165
+Bond Street,Marble Arch,910
+Kingsbury,Queensbury,153
+Preston Road,Wembley Park,381
+Roding Valley,Woodford,120
+Mile End,Stratford,2766
+West Finchley,Woodside Park,218
+Oval,Stockwell,359
+Stratford,West Ham,2674
+Leicester Square,Piccadilly Circus,2339
+South Woodford,Woodford,283
+Borough,London Bridge,1352
+Gants Hill,Redbridge,200
+Oxford Circus,Regents Park,646
+Barking,East Ham,833
+Northwood,Northwood Hills,96
+Oxford Circus,Piccadilly Circus,2337
+Canada Water,Canary Wharf,1932
+Paddington,Warwick Avenue,1205
+Canons Park,Queensbury,231
+Camden Town,Chalk Farm,937
+Barons Court,Earls Court,873
+Ealing Broadway,Ealing Common,552
+Monument,London Bridge,2696
+Mile End,Stepney Green,322
+Earls Court,West Brompton,756
+Chorleywood,Rickmansworth,120
+Ealing Common,North Ealing,61
+Blackfriars,Mansion House,461
+Monument,Tower Hill,1148
+Paddington,Royal Oak,1247
+Hounslow Central,Hounslow West,148
+Euston,Kings Cross St. Pancras,1784
+Archway,Highgate,486
+Kentish Town,Tufnell Park,367
+Barking,Upney,574
+Acton Town,Chiswick Park,192
+Clapham Common,Clapham North,446
+Gunnersbury,Turnham Green,436
+Edgware Road (Bakerloo),Marylebone,209
+Colindale,Hendon Central,509
+London Bridge,Southwark,1385
+Charing Cross,Piccadilly Circus,1247
+Northwick Park,Preston Road,84
+Latimer Road,Wood Lane,442
+Debden,Theydon Bois,163
+Balham,Clapham South,743
+Colliers Wood,Tooting Broadway,1060
+East Finchley,Finchley Central,552
+Dagenham East,Dagenham Heathway,214
+Angel,Old Street,515
+North Harrow,Pinner,105
+Stepney Green,Whitechapel,380
+Shepherds Bush Market,Wood Lane,736
+Kenton,South Kenton,132
+Arsenal,Finsbury Park,773
+Holland Park,Notting Hill Gate,539
+Greenford,Northolt,246
+Bow Road,Mile End,349
+Gloucester Road,South Kensington,1346
+Monument,St. Pauls,578
+Fairlop,Hainault,114
+Greenford,Perivale,173
+Blackfriars,Temple,414
+Holborn,Russell Square,505
+Baker Street,St. Johns Wood,577
+North Ealing,Park Royal,73
+Hornchurch,Upminster Bridge,105
+Fulham Broadway,Parsons Green,551
+Acton Town,South Ealing,219
+Green Park,Piccadilly Circus,1540
+Pimlico,Victoria,1037
+Dagenham East,Elm Park,163
+Morden,South Wimbledon,1046
+Harrow-on-the-Hill,Northwick Park,307
+Barkingside,Newbury Park,186
+Stockwell,Vauxhall,1308
+Kennington,Oval,232
+Camden Town,Mornington Crescent,907
+Earls Court,Gloucester Road,1106
+East Finchley,Highgate,396
+Bermondsey,Canada Water,691
+Northfields,South Ealing,147
+Finsbury Park,Seven Sisters,1136
+Ealing Broadway,West Acton,456
+Chiswick Park,Turnham Green,222
+Hyde Park Corner,Knightsbridge,637
+Covent Garden,Leicester Square,1323
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,485
+Stamford Brook,Turnham Green,280
+Buckhurst Hill,Woodford,225
+Gants Hill,Newbury Park,307
+Golders Green,Hampstead,433
+Liverpool Street,Moorgate,1729
+Knightsbridge,South Kensington,1705
+Elm Park,Hornchurch,133
+Amersham,Chalfont and Latimer,228
+Camden Town,Kentish Town,1028
+Pimlico,Vauxhall,650
+Chancery Lane,Holborn,464
+Kingsbury,Wembley Park,490
+Kennington,Nine Elms,280
+Embankment,Waterloo,1900
+Rayners Lane,South Harrow,121
+Clapham North,Stockwell,451
+Harlesden,Willesden Junction,332
+Harrow and Wealdstone,Kenton,246
+Kilburn,Willesden Green,478
+Acton Town,Ealing Common,197
+Leyton,Stratford,1587
+Harlesden,Stonebridge Park,227
+Belsize Park,Hampstead,400
+Bounds Green,Wood Green,537
+Elephant and Castle,Kennington,535
+Baker Street,Finchley Road,725
+Arnos Grove,Bounds Green,403
+Shepherds Bush,White City,1213
+Wimbledon,Wimbledon Park,2129
+East Putney,Putney Bridge,728
+Manor House,Turnpike Lane,440
+Euston,Mornington Crescent,643
+Hatton Cross,Hounslow West,229
+Upminster,Upminster Bridge,349
+Bond Street,Green Park,1540
+Canning Town,West Ham,601
+Chigwell,Roding Valley,8
+Green Park,Victoria,2131
+Sloane Square,Victoria,1382
+Buckhurst Hill,Loughton,224
+Euston Square,Kings Cross St. Pancras,1059
+Aldgate East,Liverpool Street,1693
+Barkingside,Fairlop,79
+Ravenscourt Park,Stamford Brook,198
+Canons Park,Stanmore,329
+Kings Cross St. Pancras,Russell Square,979
+Hanger Lane,Perivale,167
+Ruislip,Ruislip Manor,123
+Leytonstone,Wanstead,285
+Redbridge,Wanstead,118
+Epping,Theydon Bois,314
+Cannon Street,Mansion House,144
+Hanger Lane,North Acton,235
+Leytonstone,Snaresbrook,238
+Alperton,Sudbury Town,136
+Chancery Lane,St. Pauls,248
+East Acton,North Acton,231
+Southwark,Waterloo,987
+Dollis Hill,Willesden Green,312
+Euston,Warren Street,597
+Stonebridge Park,Wembley Central,338
+St. Johns Wood,Swiss Cottage,227
+Leyton,Leytonstone,522
+St. Jamess Park,Victoria,884
+Bermondsey,London Bridge,1639
+Moorgate,Old Street,662
+Canary Wharf,North Greenwich,2950
+Oxford Circus,Tottenham Court Road,3190
+Barbican,Farringdon,286
+Sloane Square,South Kensington,1376
+Finsbury Park,Manor House,1005
+Green Park,Hyde Park Corner,566
+Embankment,Westminster,1053
+Baker Street,Bond Street,1466
+Colliers Wood,South Wimbledon,753
+Kilburn Park,Maida Vale,217
+Notting Hill Gate,Queensway,649
+High Barnet,Totteridge and Whetstone,358
+Elephant and Castle,Lambeth North,327
+Turnpike Lane,Wood Green,646
+Goldhawk Road,Shepherds Bush Market,335
+Debden,Loughton,253
+Finchley Central,Mill Hill East,326
+Fulham Broadway,West Brompton,399
+Chigwell,Grange Hill,16
+Bow Road,Bromley-by-Bow,152
+Aldgate,Liverpool Street,971
+Baker Street,Great Portland Street,449
+Kensal Green,Willesden Junction,304
+Neasden,Wembley Park,434
+Becontree,Upney,141
+Camden Town,Euston,1836
+Battersea Power Station,Nine Elms,1148
+Bond Street,Oxford Circus,2311
+Moor Park,Rickmansworth,112
+Barbican,Moorgate,347
+Bromley-by-Bow,West Ham,215
+St. Jamess Park,Westminster,466
+Moor Park,Northwood,134
+Aldgate East,Whitechapel,616
+Bayswater,Paddington,1005
+Earls Court,West Kensington,803
+Burnt Oak,Colindale,530
+Leicester Square,Tottenham Court Road,2964
+Grange Hill,Hainault,88
+Dollis Hill,Neasden,179
+Brent Cross,Hendon Central,343
+Finchley Road,West Hampstead,426
+Archway,Tufnell Park,398
+Chalfont and Latimer,Chesham,130
+Green Park,Westminster,1125
+Ladbroke Grove,Westbourne Park,583
+Caledonian Road,Kings Cross St. Pancras,1141
+Croxley,Watford,105
+Ickenham,Ruislip,102
+Earls Court,High Street Kensington,1230
+Finchley Central,West Finchley,335
+Alperton,Park Royal,157
+Gunnersbury,Kew Gardens,718
+East Ham,Upton Park,570
+Totteridge and Whetstone,Woodside Park,315
+Kilburn Park,Queens Park,336
+Bayswater,Notting Hill Gate,350
+Hatton Cross,Heathrow Terminals 1 2 3,599
+Harrow-on-the-Hill,West Harrow,240
+Royal Oak,Westbourne Park,180
+Barons Court,West Kensington,278
+Chalfont and Latimer,Chorleywood,187
+Rayners Lane,West Harrow,93
+Monument,Cannon Street,328
+Goodge Street,Warren Street,217
+Harrow-on-the-Hill,North Harrow,300
+Waterloo,Westminster,1939
+Borough,Elephant and Castle,331
+Holborn,Tottenham Court Road,2080
+Monument,Liverpool Street,2346
+Finchley Road,Wembley Park,613
+Edgware Road (Bakerloo),Paddington,1120
+High Street Kensington,Notting Hill Gate,715
+Oxford Circus,Warren Street,1279
+Earls Court,Kensington (Olympia),414
+Cockfosters,Oakwood,231
+Monument,Moorgate,961
+Finsbury Park,Highbury and Islington,1012
+Oakwood,Southgate,476
+Brixton,Stockwell,1526
+Eastcote,Ruislip Manor,117
+Goodge Street,Tottenham Court Road,975
+Brent Cross,Golders Green,373
+Hatton Cross,Heathrow Terminal 4,201
+North Acton,West Acton,193
+Northwood Hills,Pinner,126
+Aldgate,Tower Hill,521
+Arnos Grove,Southgate,377
+Baker Street,Marylebone,553
+Blackhorse Road,Walthamstow Central,1330
+South Harrow,Sudbury Hill,86
+Balham,Tooting Bec,795
+Arsenal,Holloway Road,197
+Source Station,Target Station,Weight
+Finchley Road,Wembley Park,677
+Fairlop,Hainault,131
+Oxford Circus,Regents Park,723
+Oval,Stockwell,353
+Acton Town,Turnham Green,496
+Holborn,Tottenham Court Road,2111
+London Bridge,Southwark,1292
+Moorgate,Old Street,681
+Harlesden,Willesden Junction,304
+Harlesden,Stonebridge Park,172
+Stratford,West Ham,2772
+Kings Cross St. Pancras,Russell Square,1036
+Embankment,Waterloo,2027
+Harrow-on-the-Hill,North Harrow,256
+Euston,Mornington Crescent,649
+Acton Town,Chiswick Park,229
+Kingsbury,Queensbury,178
+Hatton Cross,Hounslow West,229
+Camden Town,Euston,1803
+East Putney,Southfields,648
+Barkingside,Fairlop,84
+Harrow and Wealdstone,Kenton,292
+Bethnal Green,Liverpool Street,993
+Euston,Warren Street,584
+Oakwood,Southgate,436
+Earls Court,Kensington (Olympia),433
+Monument,Moorgate,987
+Chalfont and Latimer,Chesham,128
+Cannon Street,Mansion House,151
+Covent Garden,Holborn,928
+Burnt Oak,Edgware,468
+Covent Garden,Leicester Square,1299
+Elephant and Castle,Kennington,570
+Moor Park,Rickmansworth,96
+Dollis Hill,Neasden,173
+Leytonstone,Snaresbrook,297
+Clapham North,Stockwell,438
+Stamford Brook,Turnham Green,297
+East Finchley,Highgate,354
+Oxford Circus,Piccadilly Circus,2374
+Canning Town,North Greenwich,1657
+Canary Wharf,North Greenwich,2987
+Liverpool Street,Moorgate,1699
+Barbican,Moorgate,345
+Upminster,Upminster Bridge,296
+Greenford,Perivale,214
+Chigwell,Grange Hill,18
+Ruislip,Ruislip Manor,123
+Aldgate East,Whitechapel,600
+Goldhawk Road,Shepherds Bush Market,315
+Barons Court,West Kensington,305
+East Ham,Upton Park,640
+Stepney Green,Whitechapel,416
+Charing Cross,Piccadilly Circus,1272
+Finchley Road,West Hampstead,395
+Colliers Wood,Tooting Broadway,1107
+Caledonian Road,Holloway Road,207
+Hyde Park Corner,Knightsbridge,661
+Camden Town,Kentish Town,949
+Gloucester Road,South Kensington,1409
+North Wembley,Wembley Central,248
+Arsenal,Holloway Road,203
+Ickenham,Ruislip,115
+Goodge Street,Tottenham Court Road,980
+Redbridge,Wanstead,141
+Paddington,Royal Oak,1221
+Kingsbury,Wembley Park,440
+Lancaster Gate,Marble Arch,553
+Barking,Upney,550
+South Harrow,Sudbury Hill,90
+High Barnet,Totteridge and Whetstone,373
+Moor Park,Northwood,121
+Euston Square,Great Portland Street,146
+Sloane Square,South Kensington,1298
+Baker Street,Bond Street,1457
+Holland Park,Notting Hill Gate,435
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,452
+Buckhurst Hill,Loughton,204
+Totteridge and Whetstone,Woodside Park,351
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,429
+Elm Park,Hornchurch,128
+Royal Oak,Westbourne Park,184
+Parsons Green,Putney Bridge,720
+Burnt Oak,Colindale,495
+Kilburn Park,Queens Park,319
+Croxley,Watford,101
+Manor House,Turnpike Lane,438
+Eastcote,Ruislip Manor,112
+Dagenham East,Dagenham Heathway,199
+Green Park,Hyde Park Corner,547
+Neasden,Wembley Park,430
+Battersea Power Station,Nine Elms,1139
+Monument,Waterloo,1984
+Northfields,South Ealing,153
+Alperton,Sudbury Town,147
+Canons Park,Stanmore,356
+Gunnersbury,Turnham Green,444
+Finsbury Park,Seven Sisters,1142
+Bow Road,Mile End,330
+East Acton,North Acton,239
+Fulham Broadway,Parsons Green,537
+Plaistow,Upton Park,333
+Morden,South Wimbledon,960
+Notting Hill Gate,Queensway,732
+Chancery Lane,St. Pauls,246
+Hornchurch,Upminster Bridge,130
+Green Park,Oxford Circus,2665
+Latimer Road,Wood Lane,496
+Hanger Lane,Perivale,166
+Kennington,Oval,214
+Finsbury Park,Manor House,968
+Bermondsey,Canada Water,622
+Waterloo,Westminster,2010
+Boston Manor,Osterley,152
+Leyton,Stratford,1646
+Balham,Clapham South,713
+Hatton Cross,Heathrow Terminals 1 2 3,588
+Gants Hill,Newbury Park,272
+Monument,St. Pauls,542
+Baker Street,Great Portland Street,430
+Earls Court,West Kensington,747
+Kilburn,West Hampstead,484
+Rayners Lane,South Harrow,131
+Blackfriars,Temple,392
+Kennington,Nine Elms,279
+Borough,Elephant and Castle,368
+Angel,Old Street,492
+Maida Vale,Warwick Avenue,189
+Oxford Circus,Warren Street,1239
+Earls Court,High Street Kensington,1166
+Colindale,Hendon Central,502
+Lambeth North,Waterloo,994
+Kew Gardens,Richmond,1796
+Bayswater,Notting Hill Gate,399
+Canada Water,Canary Wharf,1811
+Golders Green,Hampstead,439
+Southfields,Wimbledon Park,492
+Clapham Common,Clapham North,468
+Aldgate East,Tower Hill,891
+Sudbury Hill,Sudbury Town,87
+Hounslow Central,Hounslow East,228
+Edgware Road (Bakerloo),Marylebone,210
+Hillingdon,Ickenham,139
+Euston,Kings Cross St. Pancras,1907
+Eastcote,Rayners Lane,133
+Epping,Theydon Bois,334
+Preston Road,Wembley Park,357
+Chalfont and Latimer,Chorleywood,178
+Baker Street,Regents Park,308
+Belsize Park,Hampstead,395
+Kilburn,Willesden Green,420
+Monument,Liverpool Street,2372
+Aldgate,Liverpool Street,1021
+Baker Street,Marylebone,581
+East Putney,Putney Bridge,751
+Knightsbridge,South Kensington,1757
+Northwood,Northwood Hills,114
+Kilburn Park,Maida Vale,241
+Alperton,Park Royal,168
+Mile End,Stratford,2589
+Leyton,Leytonstone,608
+Plaistow,West Ham,208
+Bounds Green,Wood Green,597
+Mile End,Stepney Green,346
+Arnos Grove,Bounds Green,353
+Northwood Hills,Pinner,134
+Seven Sisters,Tottenham Hale,887
+Euston Square,Kings Cross St. Pancras,1034
+Fulham Broadway,West Brompton,386
+South Woodford,Woodford,276
+Leicester Square,Piccadilly Circus,2318
+Acton Town,South Ealing,201
+Borough,London Bridge,1311
+Baker Street,St. Johns Wood,567
+Archway,Highgate,510
+Monument,Tower Hill,1164
+Wimbledon,Wimbledon Park,2066
+Hounslow East,Osterley,185
+Bromley-by-Bow,West Ham,192
+East Acton,White City,366
+Gloucester Road,High Street Kensington,648
+Brent Cross,Hendon Central,345
+Ealing Broadway,West Acton,447
+Pimlico,Victoria,1110
+Barkingside,Newbury Park,176
+Canons Park,Queensbury,258
+Embankment,Temple,516
+Chiswick Park,Turnham Green,280
+Buckhurst Hill,Woodford,222
+Tooting Bec,Tooting Broadway,975
+Harrow-on-the-Hill,West Harrow,214
+West Finchley,Woodside Park,170
+Green Park,Piccadilly Circus,1570
+Brent Cross,Golders Green,342
+Bond Street,Oxford Circus,2492
+Stonebridge Park,Wembley Central,319
+Colliers Wood,South Wimbledon,733
+Blackfriars,Mansion House,428
+Balham,Tooting Bec,812
+Green Park,Westminster,1203
+Ravenscourt Park,Stamford Brook,191
+North Ealing,Park Royal,88
+Roding Valley,Woodford,149
+Camden Town,Mornington Crescent,962
+Holborn,Russell Square,429
+Bow Road,Bromley-by-Bow,166
+Caledonian Road,Kings Cross St. Pancras,1221
+Kensal Green,Queens Park,302
+Monument,London Bridge,2776
+Amersham,Chalfont and Latimer,202
+Baker Street,Finchley Road,729
+Kennington,Waterloo,1690
+North Harrow,Pinner,126
+Ladbroke Grove,Westbourne Park,509
+Leytonstone,Wanstead,273
+Monument,Cannon Street,345
+Northwick Park,Preston Road,99
+Dagenham East,Elm Park,147
+Finchley Central,Mill Hill East,289
+Angel,Kings Cross St. Pancras,1474
+High Street Kensington,Notting Hill Gate,719
+Leicester Square,Tottenham Court Road,2984
+Edgware Road (Bakerloo),Paddington,1079
+Lancaster Gate,Queensway,408
+Charing Cross,Embankment,791
+St. Jamess Park,Victoria,936
+Green Park,Victoria,2027
+Brixton,Stockwell,1520
+Embankment,Westminster,1079
+Hillingdon,Uxbridge,505
+Turnpike Lane,Wood Green,631
+Greenford,Northolt,309
+Debden,Theydon Bois,202
+Ladbroke Grove,Latimer Road,548
+Boston Manor,Northfields,160
+Barking,East Ham,776
+Southwark,Waterloo,954
+Chorleywood,Rickmansworth,150
+Farringdon,Kings Cross St. Pancras,1345
+Blackhorse Road,Walthamstow Central,1363
+Arnos Grove,Southgate,360
+Finchley Road,Swiss Cottage,280
+Sloane Square,Victoria,1382
+Elephant and Castle,Lambeth North,327
+Arsenal,Finsbury Park,753
+Ealing Common,North Ealing,51
+Rayners Lane,West Harrow,93
+Chancery Lane,Holborn,386
+East Finchley,Finchley Central,549
+Holland Park,Shepherds Bush,812
+Kensal Green,Willesden Junction,306
+Goodge Street,Warren Street,223
+Grange Hill,Hainault,93
+Blackhorse Road,Tottenham Hale,1317
+Bayswater,Paddington,969
+Finsbury Park,Highbury and Islington,987
+Aldgate East,Liverpool Street,1664
+Clapham Common,Clapham South,566
+St. Jamess Park,Westminster,506
+Ruislip Gardens,West Ruislip,155
+Gunnersbury,Kew Gardens,697
+Barons Court,Earls Court,864
+Earls Court,Gloucester Road,1165
+Hounslow Central,Hounslow West,191
+Ruislip Gardens,South Ruislip,155
+Belsize Park,Chalk Farm,406
+Becontree,Upney,125
+Paddington,Warwick Avenue,1203
+Earls Court,West Brompton,686
+Chigwell,Roding Valley,11
+Barbican,Farringdon,261
+Hatton Cross,Heathrow Terminal 4,239
+Archway,Tufnell Park,423
+St. Johns Wood,Swiss Cottage,218
+Finchley Central,West Finchley,330
+Aldgate,Tower Hill,505
+Highbury and Islington,Kings Cross St. Pancras,1328
+Kentish Town,Tufnell Park,346
+Charing Cross,Leicester Square,1730
+Northolt,South Ruislip,286
+Camden Town,Chalk Farm,962
+Cockfosters,Oakwood,253
+Croxley,Moor Park,65
+Snaresbrook,South Woodford,171
+Stockwell,Vauxhall,1396
+Shepherds Bush Market,Wood Lane,696
+Debden,Loughton,229
+Bond Street,Marble Arch,886
+Shepherds Bush,White City,1198
+Bethnal Green,Mile End,545
+Ealing Broadway,Ealing Common,561
+Gants Hill,Redbridge,196
+Pimlico,Vauxhall,700
+Canning Town,West Ham,612
+North Wembley,South Kenton,89
+Acton Town,Ealing Common,178
+Bermondsey,London Bridge,1750
+North Acton,West Acton,169
+Becontree,Dagenham Heathway,241
+Kenton,South Kenton,144
+Bond Street,Green Park,1518
+Hanger Lane,North Acton,253
+Dollis Hill,Willesden Green,292
+Oxford Circus,Tottenham Court Road,3202
+Harrow-on-the-Hill,Northwick Park,318
+Source Station,Target Station,Weight
+Waterloo,Westminster,1892
+Brixton,Stockwell,1581
+Kilburn,Willesden Green,469
+Brent Cross,Golders Green,344
+Ruislip,Ruislip Manor,112
+East Finchley,Highgate,351
+Bermondsey,Canada Water,626
+Highbury and Islington,Kings Cross St. Pancras,1413
+Gants Hill,Redbridge,196
+Ladbroke Grove,Westbourne Park,541
+Earls Court,West Kensington,708
+Bermondsey,London Bridge,1700
+Buckhurst Hill,Woodford,253
+Bromley-by-Bow,West Ham,207
+High Street Kensington,Notting Hill Gate,752
+Finchley Central,Mill Hill East,302
+Monument,Liverpool Street,2386
+East Ham,Upton Park,582
+Notting Hill Gate,Queensway,688
+Burnt Oak,Colindale,558
+Upminster,Upminster Bridge,312
+Charing Cross,Embankment,811
+Ruislip Gardens,South Ruislip,158
+East Finchley,Finchley Central,595
+Moorgate,Old Street,663
+Stockwell,Vauxhall,1393
+Fulham Broadway,Parsons Green,569
+Hillingdon,Ickenham,105
+Sloane Square,South Kensington,1376
+Paddington,Royal Oak,1257
+Ruislip Gardens,West Ruislip,161
+Holland Park,Shepherds Bush,737
+Dollis Hill,Willesden Green,325
+Southfields,Wimbledon Park,522
+Embankment,Waterloo,1941
+Chigwell,Grange Hill,14
+Stratford,West Ham,2711
+Leyton,Stratford,1652
+Aldgate East,Whitechapel,620
+Archway,Tufnell Park,416
+Edgware Road (Bakerloo),Paddington,1095
+Maida Vale,Warwick Avenue,196
+Acton Town,Ealing Common,216
+Clapham Common,Clapham North,430
+Hyde Park Corner,Knightsbridge,651
+Charing Cross,Leicester Square,1644
+Bounds Green,Wood Green,565
+Knightsbridge,South Kensington,1753
+Leytonstone,Wanstead,269
+Borough,London Bridge,1384
+Hounslow East,Osterley,201
+Canning Town,West Ham,612
+Balham,Clapham South,681
+Cannon Street,Mansion House,184
+Ealing Broadway,West Acton,400
+Canons Park,Stanmore,323
+Finchley Road,Swiss Cottage,285
+Epping,Theydon Bois,321
+Holborn,Tottenham Court Road,2182
+Moor Park,Rickmansworth,117
+Finchley Central,West Finchley,319
+Fairlop,Hainault,102
+Barbican,Farringdon,285
+Roding Valley,Woodford,131
+Kilburn Park,Maida Vale,210
+Camden Town,Mornington Crescent,899
+Debden,Loughton,261
+Blackhorse Road,Tottenham Hale,1279
+South Woodford,Woodford,269
+Euston,Mornington Crescent,686
+Caledonian Road,Kings Cross St. Pancras,1116
+Liverpool Street,Moorgate,1695
+Barons Court,West Kensington,305
+Cockfosters,Oakwood,266
+Northwood Hills,Pinner,149
+Hatton Cross,Hounslow West,225
+Canada Water,Canary Wharf,1806
+Plaistow,West Ham,213
+Oakwood,Southgate,387
+Monument,Moorgate,969
+Manor House,Turnpike Lane,412
+Dollis Hill,Neasden,157
+Colliers Wood,Tooting Broadway,1034
+St. Johns Wood,Swiss Cottage,238
+Earls Court,High Street Kensington,1202
+Kennington,Waterloo,1726
+Croxley,Moor Park,74
+North Acton,West Acton,178
+Kings Cross St. Pancras,Russell Square,954
+Rayners Lane,South Harrow,134
+Buckhurst Hill,Loughton,221
+Royal Oak,Westbourne Park,150
+Sloane Square,Victoria,1360
+Harrow-on-the-Hill,North Harrow,261
+Bow Road,Mile End,343
+Leyton,Leytonstone,567
+Aldgate,Tower Hill,512
+Kensal Green,Queens Park,280
+Brent Cross,Hendon Central,313
+Shepherds Bush Market,Wood Lane,780
+Caledonian Road,Holloway Road,238
+South Harrow,Sudbury Hill,91
+Mile End,Stratford,2777
+Hillingdon,Uxbridge,551
+Barking,Upney,559
+Eastcote,Ruislip Manor,106
+Lancaster Gate,Marble Arch,493
+Hatton Cross,Heathrow Terminal 4,236
+Aldgate,Liverpool Street,956
+Turnpike Lane,Wood Green,673
+Finchley Road,Wembley Park,685
+Stonebridge Park,Wembley Central,288
+Baker Street,Bond Street,1458
+Greenford,Perivale,194
+Camden Town,Kentish Town,1010
+Green Park,Oxford Circus,2639
+Balham,Tooting Bec,824
+East Acton,North Acton,243
+Grange Hill,Hainault,92
+Alperton,Sudbury Town,125
+Kew Gardens,Richmond,1823
+Oxford Circus,Warren Street,1246
+Barkingside,Fairlop,77
+Green Park,Victoria,2075
+Acton Town,South Ealing,219
+Northfields,South Ealing,170
+Covent Garden,Leicester Square,1304
+Covent Garden,Holborn,924
+Northwood,Northwood Hills,105
+St. Jamess Park,Victoria,943
+Baker Street,Marylebone,579
+Bond Street,Green Park,1530
+Clapham Common,Clapham South,672
+Gunnersbury,Turnham Green,440
+Hounslow Central,Hounslow East,206
+Embankment,Westminster,1085
+Becontree,Dagenham Heathway,188
+Kennington,Nine Elms,281
+Angel,Old Street,536
+Paddington,Warwick Avenue,1246
+Borough,Elephant and Castle,348
+Harlesden,Stonebridge Park,156
+Burnt Oak,Edgware,457
+Belsize Park,Hampstead,404
+Morden,South Wimbledon,955
+Goodge Street,Warren Street,212
+Baker Street,Finchley Road,682
+Holborn,Russell Square,492
+Monument,St. Pauls,579
+Elm Park,Hornchurch,155
+Chigwell,Roding Valley,15
+Blackfriars,Mansion House,403
+Pimlico,Vauxhall,691
+Baker Street,Great Portland Street,390
+Bow Road,Bromley-by-Bow,166
+Euston,Warren Street,612
+Bond Street,Oxford Circus,2356
+Finsbury Park,Manor House,972
+Leicester Square,Tottenham Court Road,2843
+Eastcote,Rayners Lane,150
+Golders Green,Hampstead,478
+Bayswater,Notting Hill Gate,389
+East Putney,Putney Bridge,718
+Hounslow Central,Hounslow West,151
+Arnos Grove,Southgate,424
+Harrow-on-the-Hill,Northwick Park,338
+Edgware Road (Bakerloo),Marylebone,189
+Oxford Circus,Piccadilly Circus,2310
+Camden Town,Euston,1868
+East Putney,Southfields,586
+Arsenal,Holloway Road,196
+Baker Street,Regents Park,321
+Oxford Circus,Regents Park,666
+Monument,Waterloo,1964
+Hatton Cross,Heathrow Terminals 1 2 3,615
+Blackfriars,Temple,418
+Barkingside,Newbury Park,176
+Becontree,Upney,149
+Finchley Road,West Hampstead,410
+Lambeth North,Waterloo,1011
+Finsbury Park,Highbury and Islington,1016
+Barking,East Ham,735
+Kingsbury,Queensbury,157
+Elephant and Castle,Kennington,578
+Bond Street,Marble Arch,962
+Alperton,Park Royal,157
+Oxford Circus,Tottenham Court Road,3230
+Neasden,Wembley Park,483
+Latimer Road,Wood Lane,467
+Snaresbrook,South Woodford,155
+Southwark,Waterloo,962
+Leytonstone,Snaresbrook,245
+Euston Square,Great Portland Street,200
+North Ealing,Park Royal,75
+Northwick Park,Preston Road,96
+Baker Street,St. Johns Wood,574
+Charing Cross,Piccadilly Circus,1250
+Moor Park,Northwood,116
+Oval,Stockwell,352
+Euston Square,Kings Cross St. Pancras,1069
+Colindale,Hendon Central,530
+Hornchurch,Upminster Bridge,106
+Bayswater,Paddington,959
+Kenton,South Kenton,171
+Green Park,Hyde Park Corner,552
+Lancaster Gate,Queensway,435
+Totteridge and Whetstone,Woodside Park,325
+Ladbroke Grove,Latimer Road,557
+Gloucester Road,South Kensington,1428
+Harrow-on-the-Hill,West Harrow,195
+Earls Court,West Brompton,760
+Goodge Street,Tottenham Court Road,1033
+Preston Road,Wembley Park,388
+Hanger Lane,Perivale,188
+Bethnal Green,Mile End,496
+Kennington,Oval,204
+Canons Park,Queensbury,247
+Archway,Highgate,519
+Earls Court,Kensington (Olympia),428
+Monument,Cannon Street,353
+Dagenham East,Elm Park,162
+Kingsbury,Wembley Park,482
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,453
+Arsenal,Finsbury Park,789
+Kilburn,West Hampstead,408
+Debden,Theydon Bois,174
+Mile End,Stepney Green,344
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,408
+Acton Town,Turnham Green,427
+Seven Sisters,Tottenham Hale,777
+Gants Hill,Newbury Park,281
+Chorleywood,Rickmansworth,136
+Canning Town,North Greenwich,1779
+Harrow and Wealdstone,Kenton,287
+North Harrow,Pinner,124
+Chancery Lane,Holborn,459
+Acton Town,Chiswick Park,227
+Redbridge,Wanstead,139
+Green Park,Westminster,1268
+West Finchley,Woodside Park,208
+Barons Court,Earls Court,831
+Goldhawk Road,Shepherds Bush Market,322
+Ealing Common,North Ealing,62
+North Wembley,Wembley Central,289
+Kensal Green,Willesden Junction,342
+Sudbury Hill,Sudbury Town,79
+Colliers Wood,South Wimbledon,697
+Kilburn Park,Queens Park,323
+Chiswick Park,Turnham Green,231
+Farringdon,Kings Cross St. Pancras,1419
+Chalfont and Latimer,Chesham,108
+Earls Court,Gloucester Road,1201
+Canary Wharf,North Greenwich,2946
+Chancery Lane,St. Pauls,250
+Rayners Lane,West Harrow,69
+Harlesden,Willesden Junction,318
+Northolt,South Ruislip,301
+Embankment,Temple,484
+Arnos Grove,Bounds Green,348
+Monument,Tower Hill,1117
+Boston Manor,Northfields,180
+Fulham Broadway,West Brompton,454
+Ickenham,Ruislip,130
+Chalfont and Latimer,Chorleywood,164
+Greenford,Northolt,293
+Boston Manor,Osterley,139
+Amersham,Chalfont and Latimer,205
+Euston,Kings Cross St. Pancras,1876
+Clapham North,Stockwell,452
+Croxley,Watford,130
+London Bridge,Southwark,1368
+Belsize Park,Chalk Farm,404
+Ealing Broadway,Ealing Common,562
+Ravenscourt Park,Stamford Brook,186
+Holland Park,Notting Hill Gate,492
+Parsons Green,Putney Bridge,711
+St. Jamess Park,Westminster,482
+Aldgate East,Tower Hill,886
+Green Park,Piccadilly Circus,1577
+Monument,London Bridge,2726
+Tooting Bec,Tooting Broadway,1043
+Aldgate East,Liverpool Street,1644
+Wimbledon,Wimbledon Park,2220
+Barbican,Moorgate,396
+Plaistow,Upton Park,332
+Shepherds Bush,White City,1132
+Camden Town,Chalk Farm,976
+Kentish Town,Tufnell Park,337
+Stepney Green,Whitechapel,438
+Bethnal Green,Liverpool Street,978
+Gunnersbury,Kew Gardens,701
+Battersea Power Station,Nine Elms,1232
+Blackhorse Road,Walthamstow Central,1366
+North Wembley,South Kenton,99
+Stamford Brook,Turnham Green,292
+Hanger Lane,North Acton,254
+High Barnet,Totteridge and Whetstone,368
+Finsbury Park,Seven Sisters,1181
+Dagenham East,Dagenham Heathway,199
+Gloucester Road,High Street Kensington,664
+East Acton,White City,410
+Elephant and Castle,Lambeth North,325
+Leicester Square,Piccadilly Circus,2284
+Angel,Kings Cross St. Pancras,1421
+Pimlico,Victoria,1060
+Source Station,Target Station,Weight
+Aldgate,Liverpool Street,1011
+Hounslow East,Osterley,180
+Harrow and Wealdstone,Kenton,301
+Chorleywood,Rickmansworth,116
+Chiswick Park,Turnham Green,236
+Harrow-on-the-Hill,Northwick Park,289
+Tooting Bec,Tooting Broadway,1037
+Earls Court,Kensington (Olympia),371
+Oakwood,Southgate,417
+Oxford Circus,Warren Street,1278
+Baker Street,St. Johns Wood,513
+Gunnersbury,Turnham Green,418
+Covent Garden,Holborn,906
+Arsenal,Holloway Road,181
+Gloucester Road,High Street Kensington,662
+Covent Garden,Leicester Square,1232
+Hanger Lane,North Acton,258
+Finchley Road,Swiss Cottage,269
+East Finchley,Finchley Central,565
+Moorgate,Old Street,620
+Goodge Street,Tottenham Court Road,1002
+Hillingdon,Uxbridge,524
+Charing Cross,Embankment,874
+Clapham Common,Clapham South,566
+Eastcote,Ruislip Manor,114
+Archway,Tufnell Park,382
+Ruislip,Ruislip Manor,109
+Ealing Common,North Ealing,65
+Belsize Park,Hampstead,387
+Bayswater,Notting Hill Gate,415
+Ravenscourt Park,Stamford Brook,202
+Elephant and Castle,Kennington,534
+South Harrow,Sudbury Hill,77
+Monument,Liverpool Street,2382
+Kilburn Park,Queens Park,309
+Stamford Brook,Turnham Green,320
+High Street Kensington,Notting Hill Gate,799
+Goldhawk Road,Shepherds Bush Market,327
+Monument,Moorgate,994
+Canons Park,Queensbury,248
+Leytonstone,Snaresbrook,197
+Caledonian Road,Holloway Road,222
+Canons Park,Stanmore,331
+North Wembley,South Kenton,106
+Baker Street,Regents Park,336
+Southfields,Wimbledon Park,525
+Rayners Lane,West Harrow,88
+Preston Road,Wembley Park,409
+Bow Road,Mile End,343
+Chigwell,Roding Valley,14
+Buckhurst Hill,Woodford,227
+Aldgate,Tower Hill,493
+Baker Street,Great Portland Street,450
+Fairlop,Hainault,123
+Ealing Broadway,West Acton,418
+Brixton,Stockwell,1496
+East Putney,Southfields,631
+Clapham Common,Clapham North,464
+Edgware Road (Bakerloo),Marylebone,230
+Cannon Street,Mansion House,149
+Becontree,Dagenham Heathway,179
+St. Jamess Park,Victoria,977
+Amersham,Chalfont and Latimer,203
+Euston,Mornington Crescent,686
+Acton Town,South Ealing,240
+Bond Street,Green Park,1549
+Southwark,Waterloo,992
+Kingsbury,Wembley Park,498
+Embankment,Temple,515
+Green Park,Hyde Park Corner,532
+Stonebridge Park,Wembley Central,318
+South Woodford,Woodford,278
+Leyton,Stratford,1578
+Northolt,South Ruislip,275
+Moor Park,Northwood,110
+Chancery Lane,Holborn,432
+Harrow-on-the-Hill,North Harrow,337
+Embankment,Waterloo,1948
+Holland Park,Notting Hill Gate,521
+East Acton,North Acton,208
+Lambeth North,Waterloo,974
+Aldgate East,Liverpool Street,1609
+Farringdon,Kings Cross St. Pancras,1346
+Liverpool Street,Moorgate,1629
+Hornchurch,Upminster Bridge,116
+Rayners Lane,South Harrow,132
+Hounslow Central,Hounslow East,201
+Mile End,Stepney Green,385
+Charing Cross,Piccadilly Circus,1274
+Ruislip Gardens,South Ruislip,138
+Kings Cross St. Pancras,Russell Square,962
+Barkingside,Fairlop,99
+Sloane Square,South Kensington,1349
+Stepney Green,Whitechapel,406
+Leyton,Leytonstone,541
+Kennington,Waterloo,1548
+Baker Street,Finchley Road,766
+Finsbury Park,Seven Sisters,1170
+Holborn,Tottenham Court Road,2005
+Canada Water,Canary Wharf,1812
+Angel,Old Street,502
+Camden Town,Chalk Farm,980
+Charing Cross,Leicester Square,1652
+Bromley-by-Bow,West Ham,221
+East Ham,Upton Park,572
+Waterloo,Westminster,1945
+Green Park,Piccadilly Circus,1499
+Becontree,Upney,125
+Ladbroke Grove,Westbourne Park,560
+Kennington,Oval,244
+Bow Road,Bromley-by-Bow,151
+Balham,Clapham South,755
+Pimlico,Victoria,1093
+Sloane Square,Victoria,1333
+Mile End,Stratford,2641
+Ealing Broadway,Ealing Common,559
+Northwick Park,Preston Road,98
+Morden,South Wimbledon,938
+Manor House,Turnpike Lane,454
+Leicester Square,Tottenham Court Road,2986
+Bond Street,Marble Arch,918
+Shepherds Bush,White City,1099
+Euston Square,Kings Cross St. Pancras,1016
+Kilburn Park,Maida Vale,271
+London Bridge,Southwark,1332
+North Ealing,Park Royal,76
+North Wembley,Wembley Central,335
+Eastcote,Rayners Lane,150
+Barons Court,Earls Court,823
+Camden Town,Mornington Crescent,953
+Finsbury Park,Manor House,1042
+Green Park,Victoria,2005
+Totteridge and Whetstone,Woodside Park,284
+Ladbroke Grove,Latimer Road,574
+High Barnet,Totteridge and Whetstone,371
+Oxford Circus,Regents Park,650
+Arnos Grove,Southgate,377
+Chalfont and Latimer,Chorleywood,215
+Croxley,Moor Park,73
+Earls Court,West Brompton,705
+Canary Wharf,North Greenwich,2987
+Earls Court,High Street Kensington,1187
+Hillingdon,Ickenham,116
+Barkingside,Newbury Park,182
+Belsize Park,Chalk Farm,388
+Finchley Road,Wembley Park,615
+Highbury and Islington,Kings Cross St. Pancras,1383
+Barbican,Farringdon,291
+Battersea Power Station,Nine Elms,1184
+Aldgate East,Tower Hill,833
+Burnt Oak,Edgware,468
+Arnos Grove,Bounds Green,339
+Holland Park,Shepherds Bush,804
+Colliers Wood,Tooting Broadway,1083
+Caledonian Road,Kings Cross St. Pancras,1053
+Blackhorse Road,Walthamstow Central,1322
+Elm Park,Hornchurch,145
+Chalfont and Latimer,Chesham,114
+Euston,Warren Street,529
+East Finchley,Highgate,412
+North Acton,West Acton,158
+Snaresbrook,South Woodford,168
+Green Park,Oxford Circus,2564
+Earls Court,West Kensington,741
+Barons Court,West Kensington,304
+Blackhorse Road,Tottenham Hale,1204
+Barbican,Moorgate,366
+Dollis Hill,Willesden Green,325
+Embankment,Westminster,1095
+Hounslow Central,Hounslow West,139
+St. Jamess Park,Westminster,504
+Kenton,South Kenton,153
+Shepherds Bush Market,Wood Lane,724
+Alperton,Park Royal,156
+Green Park,Westminster,1236
+Croxley,Watford,110
+Monument,Tower Hill,1147
+Brent Cross,Hendon Central,292
+Borough,London Bridge,1357
+Goodge Street,Warren Street,211
+Turnpike Lane,Wood Green,692
+Monument,Waterloo,2000
+Epping,Theydon Bois,318
+Chigwell,Grange Hill,11
+Blackfriars,Mansion House,473
+Clapham North,Stockwell,410
+Canning Town,West Ham,600
+Fulham Broadway,West Brompton,461
+Canning Town,North Greenwich,1656
+Buckhurst Hill,Loughton,218
+Acton Town,Chiswick Park,208
+Bounds Green,Wood Green,587
+Roding Valley,Woodford,130
+Gunnersbury,Kew Gardens,717
+Paddington,Warwick Avenue,1322
+Euston Square,Great Portland Street,188
+Monument,St. Pauls,554
+West Finchley,Woodside Park,194
+Hatton Cross,Heathrow Terminals 1 2 3,635
+Ruislip Gardens,West Ruislip,162
+Hanger Lane,Perivale,197
+St. Johns Wood,Swiss Cottage,221
+Edgware Road (Bakerloo),Paddington,1119
+Bermondsey,London Bridge,1811
+Hatton Cross,Heathrow Terminal 4,250
+Finsbury Park,Highbury and Islington,1045
+Monument,Cannon Street,334
+Acton Town,Turnham Green,442
+Kew Gardens,Richmond,1690
+Kilburn,West Hampstead,402
+Gants Hill,Redbridge,215
+Redbridge,Wanstead,156
+Greenford,Northolt,278
+Royal Oak,Westbourne Park,177
+Colliers Wood,South Wimbledon,715
+Alperton,Sudbury Town,143
+Dagenham East,Elm Park,161
+Notting Hill Gate,Queensway,677
+Debden,Theydon Bois,141
+Chancery Lane,St. Pauls,260
+East Acton,White City,399
+Dagenham East,Dagenham Heathway,204
+Kentish Town,Tufnell Park,328
+Burnt Oak,Colindale,536
+Brent Cross,Golders Green,410
+North Harrow,Pinner,115
+Seven Sisters,Tottenham Hale,897
+Stratford,West Ham,2794
+Camden Town,Euston,1859
+Hatton Cross,Hounslow West,211
+Oxford Circus,Piccadilly Circus,2463
+Fulham Broadway,Parsons Green,520
+Leicester Square,Piccadilly Circus,2310
+Baker Street,Marylebone,562
+Arsenal,Finsbury Park,808
+Kingsbury,Queensbury,167
+Kensal Green,Willesden Junction,306
+Cockfosters,Oakwood,217
+Kennington,Nine Elms,299
+Golders Green,Hampstead,445
+Boston Manor,Northfields,167
+Bethnal Green,Liverpool Street,989
+Gloucester Road,South Kensington,1315
+Lancaster Gate,Marble Arch,515
+Harlesden,Stonebridge Park,155
+Holborn,Russell Square,507
+Oval,Stockwell,328
+Wimbledon,Wimbledon Park,2038
+Pimlico,Vauxhall,693
+Paddington,Royal Oak,1235
+Boston Manor,Osterley,136
+Latimer Road,Wood Lane,426
+Bayswater,Paddington,1026
+Oxford Circus,Tottenham Court Road,3233
+Stockwell,Vauxhall,1379
+Earls Court,Gloucester Road,1232
+Monument,London Bridge,2703
+Barking,Upney,568
+Northwood,Northwood Hills,94
+Sudbury Hill,Sudbury Town,81
+Barking,East Ham,811
+Kilburn,Willesden Green,421
+Debden,Loughton,275
+Camden Town,Kentish Town,994
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,429
+Greenford,Perivale,202
+Kensal Green,Queens Park,298
+Acton Town,Ealing Common,206
+Finchley Central,West Finchley,330
+Dollis Hill,Neasden,137
+Aldgate East,Whitechapel,603
+Bond Street,Oxford Circus,2304
+East Putney,Putney Bridge,707
+Borough,Elephant and Castle,363
+Parsons Green,Putney Bridge,684
+Plaistow,West Ham,238
+Colindale,Hendon Central,494
+Hyde Park Corner,Knightsbridge,667
+Ickenham,Ruislip,115
+Elephant and Castle,Lambeth North,344
+Balham,Tooting Bec,797
+Knightsbridge,South Kensington,1740
+Euston,Kings Cross St. Pancras,1870
+Bethnal Green,Mile End,481
+Lancaster Gate,Queensway,405
+Finchley Central,Mill Hill East,268
+Leytonstone,Wanstead,257
+Moor Park,Rickmansworth,118
+Bermondsey,Canada Water,674
+Plaistow,Upton Park,333
+Northwood Hills,Pinner,158
+Blackfriars,Temple,393
+Harlesden,Willesden Junction,299
+Finchley Road,West Hampstead,436
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,458
+Harrow-on-the-Hill,West Harrow,236
+Neasden,Wembley Park,499
+Northfields,South Ealing,159
+Archway,Highgate,482
+Upminster,Upminster Bridge,349
+Gants Hill,Newbury Park,258
+Angel,Kings Cross St. Pancras,1500
+Grange Hill,Hainault,90
+Maida Vale,Warwick Avenue,181
+Baker Street,Bond Street,1458
+Source Station,Target Station,Weight
+Aldgate,Tower Hill,525
+Alperton,Sudbury Town,163
+Canning Town,North Greenwich,1568
+Green Park,Piccadilly Circus,1565
+Latimer Road,Wood Lane,467
+Charing Cross,Piccadilly Circus,1234
+Oxford Circus,Warren Street,1196
+St. Jamess Park,Victoria,969
+Grange Hill,Hainault,57
+Embankment,Westminster,1133
+Bounds Green,Wood Green,535
+Oakwood,Southgate,373
+Boston Manor,Osterley,118
+Becontree,Upney,132
+Heathrow Terminal 4,Heathrow Terminals 1 2 3,384
+North Ealing,Park Royal,84
+Aldgate East,Tower Hill,804
+Oval,Stockwell,356
+Becontree,Dagenham Heathway,228
+Acton Town,Ealing Common,216
+Covent Garden,Holborn,832
+Oxford Circus,Regents Park,719
+Alperton,Park Royal,159
+Colindale,Hendon Central,530
+Camden Town,Euston,1811
+Harrow-on-the-Hill,North Harrow,228
+Waterloo,Westminster,1913
+Kilburn,West Hampstead,439
+Green Park,Victoria,2096
+St. Johns Wood,Swiss Cottage,193
+Clapham Common,Clapham North,467
+Fairlop,Hainault,153
+East Ham,Upton Park,612
+Gloucester Road,South Kensington,1345
+Sudbury Hill,Sudbury Town,75
+Seven Sisters,Tottenham Hale,867
+Dagenham East,Dagenham Heathway,191
+Angel,Old Street,470
+Lambeth North,Waterloo,1031
+Tooting Bec,Tooting Broadway,1041
+Neasden,Wembley Park,447
+Dagenham East,Elm Park,118
+Rayners Lane,West Harrow,83
+Sloane Square,Victoria,1389
+Chorleywood,Rickmansworth,115
+Maida Vale,Warwick Avenue,168
+North Wembley,South Kenton,99
+Charing Cross,Embankment,826
+Buckhurst Hill,Woodford,236
+Debden,Theydon Bois,155
+Hanger Lane,North Acton,258
+Canning Town,West Ham,614
+St. Jamess Park,Westminster,469
+Monument,Liverpool Street,2368
+North Harrow,Pinner,145
+Monument,Waterloo,2018
+Archway,Tufnell Park,358
+London Bridge,Southwark,1335
+Holborn,Russell Square,428
+Baker Street,Marylebone,580
+Ruislip Gardens,South Ruislip,212
+Morden,South Wimbledon,976
+Farringdon,Kings Cross St. Pancras,1372
+Arsenal,Holloway Road,202
+Balham,Clapham South,721
+Elephant and Castle,Kennington,536
+Monument,London Bridge,2587
+Lancaster Gate,Queensway,397
+Stepney Green,Whitechapel,372
+Pimlico,Victoria,1023
+Kennington,Oval,241
+Earls Court,Gloucester Road,1154
+Bayswater,Notting Hill Gate,413
+Angel,Kings Cross St. Pancras,1600
+South Woodford,Woodford,292
+East Finchley,Highgate,387
+Covent Garden,Leicester Square,1255
+Hillingdon,Ickenham,129
+Colliers Wood,South Wimbledon,703
+Bow Road,Mile End,351
+Mile End,Stratford,2712
+Burnt Oak,Edgware,482
+Baker Street,Bond Street,1451
+Stonebridge Park,Wembley Central,275
+Canary Wharf,North Greenwich,2860
+Shepherds Bush,White City,1148
+Kenton,South Kenton,150
+Acton Town,Turnham Green,440
+Embankment,Temple,493
+Gants Hill,Redbridge,250
+West Finchley,Woodside Park,196
+Kingsbury,Wembley Park,414
+Bow Road,Bromley-by-Bow,155
+South Harrow,Sudbury Hill,76
+Chiswick Park,Turnham Green,247
+Amersham,Chalfont and Latimer,206
+Burnt Oak,Colindale,504
+North Acton,West Acton,178
+Dollis Hill,Neasden,161
+Finsbury Park,Manor House,941
+Caledonian Road,Holloway Road,230
+Leicester Square,Tottenham Court Road,2980
+Ealing Broadway,Ealing Common,549
+Brent Cross,Golders Green,410
+Kingsbury,Queensbury,173
+Ruislip Gardens,West Ruislip,154
+Hounslow Central,Hounslow West,156
+Green Park,Westminster,1227
+Finchley Central,Mill Hill East,279
+Borough,Elephant and Castle,371
+Mile End,Stepney Green,347
+Blackhorse Road,Tottenham Hale,1296
+Camden Town,Chalk Farm,1016
+Hatton Cross,Hounslow West,241
+Croxley,Moor Park,85
+Oxford Circus,Tottenham Court Road,3288
+Ruislip,Ruislip Manor,138
+Kensal Green,Queens Park,317
+Gunnersbury,Kew Gardens,636
+Kings Cross St. Pancras,Russell Square,990
+Ickenham,Ruislip,106
+Aldgate,Liverpool Street,950
+Moor Park,Rickmansworth,117
+Earls Court,West Brompton,716
+Sloane Square,South Kensington,1266
+East Acton,White City,395
+Heathrow Terminal 5,Heathrow Terminals 1 2 3,443
+Balham,Tooting Bec,792
+Debden,Loughton,276
+North Wembley,Wembley Central,299
+Northolt,South Ruislip,241
+Blackhorse Road,Walthamstow Central,1381
+Moorgate,Old Street,672
+Barbican,Moorgate,370
+Brent Cross,Hendon Central,332
+High Street Kensington,Notting Hill Gate,747
+Bromley-by-Bow,West Ham,214
+Hillingdon,Uxbridge,492
+East Acton,North Acton,245
+Finsbury Park,Highbury and Islington,1005
+Brixton,Stockwell,1549
+Kensal Green,Willesden Junction,295
+Kilburn Park,Maida Vale,230
+Kew Gardens,Richmond,1776
+Bond Street,Green Park,1658
+Liverpool Street,Moorgate,1687
+Paddington,Royal Oak,1206
+Earls Court,Kensington (Olympia),401
+Harlesden,Stonebridge Park,202
+Gloucester Road,High Street Kensington,659
+Monument,St. Pauls,538
+Blackfriars,Temple,396
+Bond Street,Oxford Circus,2356
+Roding Valley,Woodford,126
+Chalfont and Latimer,Chesham,142
+Baker Street,Regents Park,361
+Northfields,South Ealing,155
+Gunnersbury,Turnham Green,398
+Ealing Broadway,West Acton,444
+Belsize Park,Chalk Farm,420
+Kentish Town,Tufnell Park,343
+Canada Water,Canary Wharf,1807
+Finchley Central,West Finchley,312
+Turnpike Lane,Wood Green,670
+Boston Manor,Northfields,141
+Chigwell,Roding Valley,11
+Cockfosters,Oakwood,207
+Camden Town,Kentish Town,973
+Clapham North,Stockwell,458
+East Putney,Putney Bridge,749
+Green Park,Oxford Circus,2554
+Finchley Road,Swiss Cottage,306
+Hatton Cross,Heathrow Terminal 4,243
+Euston,Mornington Crescent,631
+Wimbledon,Wimbledon Park,2145
+Northwood,Northwood Hills,107
+Upminster,Upminster Bridge,315
+Stratford,West Ham,2730
+Earls Court,West Kensington,793
+Rayners Lane,South Harrow,128
+Caledonian Road,Kings Cross St. Pancras,1101
+Archway,Highgate,486
+Hanger Lane,Perivale,151
+Totteridge and Whetstone,Woodside Park,324
+Kennington,Nine Elms,328
+Ladbroke Grove,Latimer Road,567
+Barons Court,Earls Court,831
+Leytonstone,Snaresbrook,243
+East Putney,Southfields,587
+Hornchurch,Upminster Bridge,93
+Kilburn Park,Queens Park,315
+Earls Court,High Street Kensington,1217
+Golders Green,Hampstead,451
+Eastcote,Ruislip Manor,86
+Harrow-on-the-Hill,Northwick Park,290
+Edgware Road (Bakerloo),Paddington,1103
+Barking,East Ham,782
+Lancaster Gate,Marble Arch,513
+Blackfriars,Mansion House,428
+Finchley Road,West Hampstead,408
+Fulham Broadway,Parsons Green,501
+Goodge Street,Tottenham Court Road,971
+Greenford,Perivale,201
+High Barnet,Totteridge and Whetstone,329
+Cannon Street,Mansion House,176
+Euston,Kings Cross St. Pancras,1787
+Hounslow Central,Hounslow East,200
+Aldgate East,Liverpool Street,1655
+Epping,Theydon Bois,320
+Hyde Park Corner,Knightsbridge,633
+Finchley Road,Wembley Park,630
+Acton Town,South Ealing,241
+Southwark,Waterloo,982
+Embankment,Waterloo,1909
+Elephant and Castle,Lambeth North,324
+Croxley,Watford,134
+Borough,London Bridge,1394
+Barons Court,West Kensington,294
+Leyton,Stratford,1610
+Colliers Wood,Tooting Broadway,1092
+Goodge Street,Warren Street,207
+Canons Park,Stanmore,327
+Kennington,Waterloo,1626
+Chalfont and Latimer,Chorleywood,177
+Bayswater,Paddington,892
+Holland Park,Notting Hill Gate,496
+Plaistow,Upton Park,324
+Moor Park,Northwood,96
+Ealing Common,North Ealing,55
+Northwood Hills,Pinner,128
+Dollis Hill,Willesden Green,282
+Snaresbrook,South Woodford,168
+Stamford Brook,Turnham Green,310
+Parsons Green,Putney Bridge,674
+Leytonstone,Wanstead,236
+Monument,Cannon Street,314
+Barking,Upney,573
+Harlesden,Willesden Junction,339
+Southfields,Wimbledon Park,524
+Notting Hill Gate,Queensway,680
+Manor House,Turnpike Lane,436
+Chancery Lane,Holborn,411
+Paddington,Warwick Avenue,1243
+Camden Town,Mornington Crescent,941
+Oxford Circus,Piccadilly Circus,2373
+Preston Road,Wembley Park,376
+Shepherds Bush Market,Wood Lane,731
+Chigwell,Grange Hill,7
+Barkingside,Newbury Park,158
+Plaistow,West Ham,202
+Hatton Cross,Heathrow Terminals 1 2 3,577
+Knightsbridge,South Kensington,1725
+Arnos Grove,Southgate,381
+Elm Park,Hornchurch,133
+Monument,Tower Hill,1150
+Chancery Lane,St. Pauls,248
+Belsize Park,Hampstead,391
+East Finchley,Finchley Central,584
+Leyton,Leytonstone,554
+Euston Square,Kings Cross St. Pancras,1075
+Greenford,Northolt,288
+Baker Street,Finchley Road,745
+Buckhurst Hill,Loughton,234
+Finsbury Park,Seven Sisters,1161
+Highbury and Islington,Kings Cross St. Pancras,1325
+Fulham Broadway,West Brompton,409
+Stockwell,Vauxhall,1313
+Eastcote,Rayners Lane,149
+Baker Street,Great Portland Street,423
+Kilburn,Willesden Green,440
+Aldgate East,Whitechapel,627
+Euston Square,Great Portland Street,160
+Bethnal Green,Liverpool Street,1002
+Canons Park,Queensbury,201
+Pimlico,Vauxhall,656
+Baker Street,St. Johns Wood,565
+Monument,Moorgate,969
+Barbican,Farringdon,314
+Holborn,Tottenham Court Road,2005
+Redbridge,Wanstead,140
+Holland Park,Shepherds Bush,745
+Harrow and Wealdstone,Kenton,302
+Royal Oak,Westbourne Park,174
+Acton Town,Chiswick Park,195
+Bethnal Green,Mile End,512
+Harrow-on-the-Hill,West Harrow,209
+Barkingside,Fairlop,55
+Goldhawk Road,Shepherds Bush Market,323
+Ladbroke Grove,Westbourne Park,516
+Bermondsey,Canada Water,674
+Arsenal,Finsbury Park,807
+Green Park,Hyde Park Corner,543
+Ravenscourt Park,Stamford Brook,173
+Leicester Square,Piccadilly Circus,2324
+Clapham Common,Clapham South,573
+Battersea Power Station,Nine Elms,1175
+Bermondsey,London Bridge,1738
+Gants Hill,Newbury Park,307
+Euston,Warren Street,507
+Charing Cross,Leicester Square,1808
+Bond Street,Marble Arch,920
+Arnos Grove,Bounds Green,354
+Edgware Road (Bakerloo),Marylebone,208
+Northwick Park,Preston Road,78
+Hounslow East,Osterley,166

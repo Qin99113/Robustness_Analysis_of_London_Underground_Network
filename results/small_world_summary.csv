@@ -1,0 +1,5 @@
+Network,Actual Clustering Coefficient,Actual Shortest Path Length,Random Clustering Coefficient (Avg),Random Shortest Path Length (Avg),Assessment
+Friday,0.005997323360148362,0.0003948198224701679,0.0007879973519040005,0.00020939314491444028,The weighted network does not exhibit small-world properties.
+Mid-Week (Tuesday),0.006091548311767019,0.00037490268980226667,0.0007746126290216352,0.0001667314242337443,The weighted network does not exhibit small-world properties.
+Saturday,0.005998139562703706,0.00032177781943840974,0.0008201690905937081,0.00016126409286249633,The weighted network does not exhibit small-world properties.
+Sunday,0.006075020662901012,0.00047582173617240545,0.0007432080474432386,1.5315675288755286,The weighted network likely exhibits small-world properties!
